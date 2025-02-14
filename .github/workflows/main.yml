@@ -1,0 +1,200 @@
+name: Compare JSON, Extract IDs, Extract Changes, and Convert Excel After Merge
+
+on:
+  push:
+    branches:
+      - staging
+      - main
+
+jobs:
+  # **STEP 1: Compare Branches**
+  diff_check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Ensures the latest versions of both branches are available for comparison.
+      - name: Fetch Latest Branches
+        run: |
+          git fetch --all
+
+      - name: Detect Current Branch
+        run: |
+          BRANCH_NAME="${GITHUB_REF_NAME}"
+          echo "🔹 Detected branch: $BRANCH_NAME"
+
+          if [[ -z "$BRANCH_NAME" ]]; then
+            echo "❌ ERROR: GITHUB_REF_NAME is empty. Exiting."
+            exit 1
+          fi
+
+          if [[ "$BRANCH_NAME" == "staging" ]]; then
+            echo "BASE_BRANCH=main" >> $GITHUB_ENV
+          elif [[ "$BRANCH_NAME" == "int" ]]; then
+            echo "BASE_BRANCH=staging" >> $GITHUB_ENV
+          else
+            echo "❌ Unknown push branch detected: $BRANCH_NAME"
+            exit 1
+          fi 
+
+          echo "✅ Push event detected. Base branch set to: $BASE_BRANCH"
+
+      - name: Cleanup Before Processing
+        run: |
+          rm -f changes/git-diff/changes.diff
+          echo "🧹 Old diff files removed!"
+
+      - name: Preprocess JSON (Remove ID Field)
+        run: |
+          mkdir -p temp_json
+          for file in $(git ls-files 'repo-shopify-data/*.json'); do
+            jq 'map(del(.ID))' "$file" > "temp_json/$(basename $file)"
+          done
+
+      - name: Compare JSON Files Ignoring IDs
+        run: |
+          DIFF_FILE="./changes/git-diff/changes.diff"
+          git diff --no-index temp_json repo-shopify-data > $DIFF_FILE
+
+          if [ ! -s $DIFF_FILE ]; then
+            echo "✅ No JSON files changed between $GITHUB_REF_NAME and ${{ env.BASE_BRANCH }}" > $DIFF_FILE
+          fi
+          
+          cat $DIFF_FILE  # Show diff output for debugging
+
+      - name: Commit and Push Diff File
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add ./changes/git-diff/changes.diff
+          git status
+          
+          if git diff --cached --quiet; then
+            echo "✅ No new changes detected. Skipping commit."
+          else
+            git commit -m "Update changes.diff with JSON file differences after merging into $GITHUB_REF_NAME"
+            git push origin $GITHUB_REF_NAME || echo "⚠️ Warning: Git push failed. Check permissions."
+          fi
+
+  # **STEP 2: Extract Changed IDs from JSON Diff**
+  extract_ids:
+    runs-on: ubuntu-latest
+    needs: diff_check
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Cleanup Before Pull
+        run: |
+          rm -f changes/id-output/changed_ids.txt
+          echo "🧹 Old extracted IDs removed!"
+          git status
+
+      - name: Run Extract ID Script
+        run: |
+          python3 ./utils/extractIdByPage.py
+
+      - name: Commit and Push Extracted ID File
+        run: |
+          git add changes/id-output/changed_ids.txt
+          git status
+
+          if git diff --cached --quiet; then
+            echo "✅ No new ID changes detected. Skipping commit."
+          else
+            git commit -m "Update changed_ids.txt with extracted IDs"
+            git push origin $GITHUB_REF_NAME || echo "⚠️ Warning: Git push failed. Check permissions."
+          fi
+
+  # **STEP 3: Extract Changed JSON Blocks from IDs**
+  extract_changes:
+    runs-on: ubuntu-latest
+    needs: extract_ids
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Cleanup Before Pull
+        run: |
+          rm -rf changes/change-only-jsons/*.json
+          echo "🧹 Old extracted JSONs removed!"
+          git status
+
+      - name: Run Extract Changes Script
+        run: |
+          python3 ./utils/extract-changes-only.py || echo "✅ No changed JSON blocks extracted, continuing."
+
+      - name: Commit and Push Extracted Changes
+        run: |
+          if ls changes/change-only-jsons/*.json 1> /dev/null 2>&1; then
+            git add changes/change-only-jsons/*.json
+            git status
+
+            if git diff --cached --quiet; then
+              echo "✅ No new extracted changes detected. Skipping commit."
+            else
+              git commit -m "Update change-only-jsons with extracted JSON changes"
+              git push origin $GITHUB_REF_NAME || echo "⚠️ Warning: Git push failed. Check permissions."
+            fi
+          else
+            echo "✅ No JSON changes found, skipping commit step."
+          fi
+
+  # **STEP 4: Convert JSON to Excel**
+  run-conversion-and-push:
+    runs-on: ubuntu-latest
+    needs: extract_changes
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Cleanup Before Pull
+        run: |
+          rm -rf final-matrixify-export/*
+          echo "🧹 Old Excel exports removed!"
+
+      - name: Install Python Dependencies
+        run: |
+          pip install pandas openpyxl xlsxwriter
+
+      - name: Run convertJSONToExcel script
+        run: |
+          python3 ./utils/convertJSONToExcel_in_git.py || echo "✅ No Excel files created, continuing."
+
+      - name: Commit and Push Generated Excel Files
+        run: |
+            git config --global user.name "github-actions"
+            git config --global user.email "github-actions@github.com"
+  
+            if ls final-matrixify-export/*.xlsx 1> /dev/null 2>&1 || ls changes/change-only-excel/*.xlsx 1> /dev/null 2>&1; then
+              git add final-matrixify-export/*.xlsx || echo "✅ No new Excel files in final-matrixify-export"
+              git add changes/change-only-excel/*.xlsx || echo "✅ No new Excel files in change-only-excel"
+              
+              git status
+
+              if git diff --cached --quiet; then
+                echo "✅ No new Excel files detected. Skipping commit."
+              else
+                git commit -m "Add exported Excel files"
+                git push origin $GITHUB_REF_NAME || (
+                  echo "⚠️ Push failed. Retrying after pulling latest changes..."
+                  git pull --rebase origin $GITHUB_REF_NAME && git push origin $GITHUB_REF_NAME
+                )
+              fi
+            else
+              echo "✅ No new Excel files to commit."
+            fi

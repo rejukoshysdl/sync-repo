@@ -1,3038 +1,1628 @@
 [
     {
-        "ID": "504552718617",
-        "Path": "/youth-activating-smoothing-and-refreshing-eye-serum-MT1A3715.html",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-smoothing-and-refreshing-eye-serum"
-    },
-    {
-        "ID": "504430592281",
-        "Path": "/haircare",
-        "Command": "MERGE",
-        "Target": "/pages/lp-core-ageproofhair"
-    },
-    {
-        "ID": "504431477017",
-        "Path": "/savenow2",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137161"
-    },
-    {
-        "ID": "511505137945",
-        "Path": "/campaign/mb5-deluxe25offb15",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504552915225",
-        "Path": "/skin-renewing-peel-MT1A0086.html",
-        "Command": "MERGE",
-        "Target": "/products/skin-renewing-peel"
-    },
-    {
-        "ID": "504430166297",
-        "Path": "/age-proof-hair-ps",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer"
-    },
-    {
-        "ID": "504553013529",
-        "Path": "/vitamin-c-brightening-water-cr%C3%A8me-MT1A4289.html",
-        "Command": "MERGE",
-        "Target": "/products/vitamin-c-brightening-water-creme"
-    },
-    {
-        "ID": "504431575321",
-        "Path": "/savenow22",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137181"
-    },
-    {
-        "ID": "511505203481",
-        "Path": "/campaign/mb5-deluxe20off-laborday",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504553111833",
-        "Path": "/age-recovery-night-cr%C3%A8me-with-retinol-advanced-formula-MTPG067.html",
-        "Command": "MERGE",
-        "Target": "/products/age-recovery-night-creme-with-retinol"
-    },
-    {
-        "ID": "504430690585",
-        "Path": "/hydrate-1",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "504553210137",
-        "Path": "/firming-&-tightening-body-hydration-treatment-MT1A3512.html",
-        "Command": "MERGE",
-        "Target": "/products/firming-tightening-body-hydration-treatment"
-    },
-    {
-        "ID": "504431673625",
-        "Path": "/savenow25",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137184"
-    },
-    {
-        "ID": "504553308441",
-        "Path": "/restorative-scalp-treatment-MT1A3716.html",
-        "Command": "MERGE",
-        "Target": "/products/restorative-scalp-treatment"
-    },
-    {
-        "ID": "504429969689",
-        "Path": "/treat-1*",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "504553406745",
-        "Path": "/skin/special-offer2",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer"
-    },
-    {
-        "ID": "504552816921",
-        "Path": "/vitamin-c-bi-phase-brightening-oil-MT1A4286.html",
-        "Command": "MERGE",
-        "Target": "/products/vitamin-c-bi-phase-brightening-oil"
-    },
-    {
-        "ID": "504431771929",
-        "Path": "/savenow28",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137187"
-    },
-    {
-        "ID": "504553505049",
-        "Path": "/hair/special-offer",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer"
-    },
-    {
-        "ID": "511505367321",
-        "Path": "/campaign/mb5-deluxe20off-mom",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504430788889",
-        "Path": "/mykit",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504553603353",
-        "Path": "/our-technology.html",
-        "Command": "MERGE",
-        "Target": "/pages/our-technology"
-    },
-    {
-        "ID": "504431870233",
-        "Path": "/savenow30",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137189"
-    },
-    {
-        "ID": "504554160409",
-        "Path": "/terms-conditions.html",
-        "Command": "MERGE",
-        "Target": "/policies/terms-of-service"
-    },
-    {
-        "ID": "504430264601",
-        "Path": "/body-1",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511502942489",
-        "Path": "/campaign/mb7deluxe25offwsc15b",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504431968537",
-        "Path": "/savenow33",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137192"
-    },
-    {
-        "ID": "511505727769",
-        "Path": "/campaign/mb7-deluxe20off-mom",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505989913",
-        "Path": "/anti-aging-skincare",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506022681",
-        "Path": "/core-full-deluxe20off-wsc",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506055449",
-        "Path": "/20off-anti-aging-skincare",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506088217",
-        "Path": "/core_full_25offdeluxe",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506120985",
-        "Path": "/age-proof-hair",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506153753",
-        "Path": "/campaign/age-proof-hair-live",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506186521",
-        "Path": "/campaign/ps-age-proof-hair",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506219289",
-        "Path": "/products",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506252057",
-        "Path": "/youth-activating-melon-serum-BL6H33.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506284825",
-        "Path": "/anti-aging-day-cr%C3%A8me-with-environmental-protection-spf30-BL6H34.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506317593",
-        "Path": "/-BL6H36.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506350361",
-        "Path": "/-BL6H37.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506383129",
-        "Path": "/skin-softening-cleanser-BL6H38.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506415897",
-        "Path": "/skin-brightening-decollete-and-neck-treatment-broad-spectrum-spf-15-BL6H39.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506448665",
-        "Path": "/dark-spot-correcting-treatment-BL6H3A.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506481433",
-        "Path": "/intensive-triple-exfoliating-treatment-BL6H3B.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506514201",
-        "Path": "/ultra-lifting-and-filling-treatment-BL6H3C.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506546969",
-        "Path": "/plumping-lip-gloss-BL6H3D.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506579737",
-        "Path": "/remodeling-lip-serum-BL6H3E.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506612505",
-        "Path": "/-BL6H3F.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506645273",
-        "Path": "/5-piece-system-BKWF3H.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506678041",
-        "Path": "/7-piece-system-BKWF3W.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506710809",
-        "Path": "/ultra-5-piece-system-BKWF4W.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511506743577",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/CustomerService-ContactUs",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511503499545",
-        "Path": "/campaign/mb5bday22",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504430035225",
-        "Path": "/FAQ",
-        "Command": "MERGE",
-        "Target": "/pages/faq"
-    },
-    {
-        "ID": "511503597849",
-        "Path": "/campaign/mb7-deluxe25offb15-newyear",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432296217",
-        "Path": "/search/q=2",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503696153",
-        "Path": "/campaign/mb7-deluxe25offb15-blackfriday",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504431051033",
-        "Path": "/profile",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511503794457",
-        "Path": "/campaign/mb7-deluxe25offb15a",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432394521",
-        "Path": "/search/q=day",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503892761",
-        "Path": "/campaign/mb5deluxe20offdst15",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504430395673",
-        "Path": "/catalog",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511503991065",
-        "Path": "/campaign/mb7deluxe20offdst15",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432492825",
-        "Path": "/shipmentstatus",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511504089369",
-        "Path": "/campaign/20offdeluxeskin_hair",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504431149337",
-        "Path": "/savenow10",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137169"
-    },
-    {
-        "ID": "511504187673",
-        "Path": "/campaign/mb7deluxe20offb15-July4",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432591129",
-        "Path": "/skinny",
-        "Command": "MERGE",
-        "Target": "/?utm_medium=podcast&amp%3Butm_source=skinnyconfidential&amp%3Butm_campaign=cindy"
-    },
-    {
-        "ID": "511504285977",
-        "Path": "/campaign/mb7deluxe20offb15-summer",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504023122201",
-        "Path": "/account/login",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511504384281",
-        "Path": "/campaign/mb7deluxe20offb15-mom",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504441897241",
-        "Path": "/vip",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504482585",
-        "Path": "/campaign/mb5deluxe25offb15_anniversary",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504431247641",
-        "Path": "/savenow13",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137172"
-    },
-    {
-        "ID": "511504580889",
-        "Path": "/campaign/mb5deluxe20offb15srp-spring",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504551899417",
-        "Path": "/4-piece-deluxe-age-proof-haircare-system-MT2A3986.html",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1"
-    },
-    {
-        "ID": "511504679193",
-        "Path": "/campaign/mb7deluxe20offb15srp",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504430526745",
-        "Path": "/frequency",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511504777497",
-        "Path": "/campaign/core_full_deluxe20offv3",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504552096025",
-        "Path": "/youth-activating-melon-serum-advanced-formula-MT1A4377.html",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-melon-serum"
-    },
-    {
-        "ID": "511504875801",
-        "Path": "/campaign/mb5deluxe20offb15cbday",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504431345945",
-        "Path": "/savenow16",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137175"
-    },
-    {
-        "ID": "511504974105",
-        "Path": "/campaign/mb7deluxe20offb15-test",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504552227097",
-        "Path": "/ultra-lifting-and-filling-treatment-MT1A0259.html",
-        "Command": "MERGE",
-        "Target": "/products/ultra-lifting-and-filling-treatment"
-    },
-    {
-        "ID": "511505072409",
-        "Path": "/campaign/core90",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504431411481",
-        "Path": "/savenow18",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137177"
-    },
-    {
-        "ID": "504431444249",
-        "Path": "/savenow19",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137178"
-    },
-    {
-        "ID": "504552882457",
-        "Path": "/wrinkle-smoothing-capsules-advanced-formula-MT1A3579.html",
-        "Command": "MERGE",
-        "Target": "/products/wrinkle-smoothing-capsules"
-    },
-    {
-        "ID": "504552947993",
-        "Path": "/skin-brightening-treatment-MT1A0208.html",
-        "Command": "MERGE",
-        "Target": "/products/skin-brightening-treatment"
-    },
-    {
-        "ID": "504430657817",
-        "Path": "/haircare-2",
-        "Command": "MERGE",
-        "Target": "/pages/lp-core-ageproofhair"
-    },
-    {
-        "ID": "504020500761",
-        "Path": "/account",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504553177369",
-        "Path": "/skin-softening-gentle-cleanser-MT1A4381.html",
-        "Command": "MERGE",
-        "Target": "/products/skin-softening-gentle-cleanser-1"
-    },
-    {
-        "ID": "504553242905",
-        "Path": "/strengthening-shampoo-MT1A3677.html",
-        "Command": "MERGE",
-        "Target": "/products/strengthening-shampoo"
-    },
-    {
-        "ID": "504431706393",
-        "Path": "/savenow26",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137185"
-    },
-    {
-        "ID": "504431739161",
-        "Path": "/savenow27",
-        "Command": "MERGE",
-        "Target": "/campaign/mb8wb/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137186"
-    },
-    {
-        "ID": "511505105177",
-        "Path": "/campaign/trymbnow",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504553472281",
-        "Path": "/src=core_full_ageproofhair",
-        "Command": "MERGE",
-        "Target": "/pages/lp-core-ageproofhair"
-    },
-    {
-        "ID": "504553537817",
-        "Path": "/hair/special-offer?src=core_full_ageproofhair",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer"
-    },
-    {
-        "ID": "503912071449",
-        "Path": "/skincare-how-to-use.html",
-        "Command": "MERGE",
-        "Target": "/products/7-piece-deluxe-face-neck-skincare-system-5"
-    },
-    {
-        "ID": "504430821657",
+        "ID": "489911648550",
         "Path": "/myprofile",
         "Command": "MERGE",
         "Target": "/pages/faq-customer-service"
     },
     {
-        "ID": "504821743897",
-        "Path": "/privacy-policy",
+        "ID": "489909190950",
+        "Path": "/skin-brightening-treatment-MT1A0208.html",
         "Command": "MERGE",
-        "Target": "/policies/privacy-policy"
+        "Target": "/products/skin-brightening-treatment"
     },
     {
-        "ID": "511502975257",
-        "Path": "/campaign/mb7wb",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511503040793",
-        "Path": "/campaign/coreV2",
+        "ID": "489910075686",
+        "Path": "/search/q=day",
         "Command": "MERGE",
         "Target": "/"
     },
     {
-        "ID": "511505269017",
-        "Path": "/campaign/mb5-deluxe20off-summer",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504432001305",
-        "Path": "/savenow34",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137193"
-    },
-    {
-        "ID": "511505400089",
-        "Path": "/campaign/mb5-deluxe20off-spring",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505432857",
-        "Path": "/campaign/mb5-deluxe20off",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505465625",
-        "Path": "/campaign/mb7-deluxe25offb15",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505498393",
-        "Path": "/campaign/mb7deluxe20offb15",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505531161",
-        "Path": "/campaign/mb7-deluxe20off-laborday",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505563929",
-        "Path": "/campaign/mb7deluxe20offb",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505596697",
-        "Path": "/campaign/mb7-deluxe20off-july4th",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505629465",
-        "Path": "/campaign/mb7-deluxe20off-summer",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511503073561",
-        "Path": "/campaign/mb5deluxe25offdst15",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505760537",
-        "Path": "/campaign/mb7-deluxe20off-spring",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505793305",
-        "Path": "/campaign/mb7-deluxe20off",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505826073",
-        "Path": "/campaign/deluxe-special-offer",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505858841",
-        "Path": "/campaign/special-offer-panelc",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505891609",
-        "Path": "/campaign/20offdeluxe",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505924377",
-        "Path": "/campaign/friend50poff",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505957145",
-        "Path": "/campaign/main",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504430887193",
-        "Path": "/pay",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511503139097",
-        "Path": "/campaign/mb7deluxe25offwsc15a",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432066841",
-        "Path": "/savenow36",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137195"
-    },
-    {
-        "ID": "511503237401",
-        "Path": "/campaign/mb7deluxe20offwsc-mom",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504022532377",
-        "Path": "?*=*&amp%3Bh=*",
-        "Command": "MERGE",
-        "Target": "/account/login"
-    },
-    {
-        "ID": "511503335705",
-        "Path": "/campaign/mb7deluxe20offwsc-spring",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432165145",
-        "Path": "/savenow6",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137165"
-    },
-    {
-        "ID": "511503434009",
-        "Path": "/campaign/mb7deluxe20offwsc15a",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504430985497",
-        "Path": "/privacy",
-        "Command": "MERGE",
-        "Target": "/policies/privacy-policy"
-    },
-    {
-        "ID": "511503565081",
-        "Path": "/campaign/mb5-deluxe25offb15-newyear",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503630617",
-        "Path": "/campaign/mb7-deluxe25offb15-cyber",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432328985",
-        "Path": "/search/q=5",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504432361753",
-        "Path": "/search/q=body",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503859993",
-        "Path": "/campaign/core-20offdeluxe-dst",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503925529",
-        "Path": "/campaign/mb7deluxe20offwsc",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504431116569",
-        "Path": "/savenow1",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137160"
-    },
-    {
-        "ID": "504430067993",
-        "Path": "/customerservice",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511504154905",
-        "Path": "/campaign/mb7deluxe20offb15_laborday",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511504220441",
-        "Path": "/campaign/mb5deluxe20offb15-July4",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504432623897",
-        "Path": "/status",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504432656665",
-        "Path": "/systems-1",
-        "Command": "MERGE",
-        "Target": "/collection/shop"
-    },
-    {
-        "ID": "511504449817",
-        "Path": "/campaign/mb7deluxe25offb15_anniversary",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511504515353",
-        "Path": "/campaign/specialofferpanelc20off",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504430100761",
-        "Path": "/help",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504431280409",
-        "Path": "/savenow14",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137173"
-    },
-    {
-        "ID": "511504744729",
-        "Path": "/campaign/mb5deluxe20offb15ndcv2",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504810265",
-        "Path": "/campaign/core_full_v2",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504552161561",
-        "Path": "/glowing-serum-MT1A4392.html",
-        "Command": "MERGE",
-        "Target": "/products/glowing-serum"
-    },
-    {
-        "ID": "504552194329",
-        "Path": "/cr%C3%A8me-de-s%C3%A9rum-MT1A0250.html",
-        "Command": "MERGE",
-        "Target": "/products/creme-de-serum"
-    },
-    {
-        "ID": "511505039641",
-        "Path": "/campaign/core2",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504430133529",
-        "Path": "/src=mb8wb",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback"
-    },
-    {
-        "ID": "504429936921",
-        "Path": "/haircare/sas/ageproofhair",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer"
-    },
-    {
-        "ID": "504431509785",
-        "Path": "/savenow20",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137179"
-    },
-    {
-        "ID": "504553046297",
-        "Path": "/hydrating-and-soothing-facial-mist-MT1A4287.html",
-        "Command": "MERGE",
-        "Target": "/products/hydrating-and-soothing-facial-mist"
-    },
-    {
-        "ID": "504553144601",
-        "Path": "/pore-refining-toner-MT1A4266.html",
-        "Command": "MERGE",
-        "Target": "/products/pore-refining-toner"
-    },
-    {
-        "ID": "504553275673",
-        "Path": "/smooth-&-shiny-conditioner-MT1A3679.html",
-        "Command": "MERGE",
-        "Target": "/products/smooth-shiny-conditioner"
-    },
-    {
-        "ID": "504553373977",
-        "Path": "/root-touch-up-MTPG050.html",
-        "Command": "MERGE",
-        "Target": "/products/root-touch-up"
-    },
-    {
-        "ID": "504430231833",
-        "Path": "/billing",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504431837465",
-        "Path": "/savenow3",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137162"
-    },
-    {
-        "ID": "504431903001",
-        "Path": "/savenow31",
-        "Command": "MERGE",
-        "Target": "/campaign/mb8wb/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137190"
-    },
-    {
-        "ID": "504430854425",
-        "Path": "/orderstatus",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511505170713",
-        "Path": "/campaign/mb5deluxe20offb15",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505236249",
-        "Path": "/campaign/mb5-deluxe20off-july4th",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505301785",
-        "Path": "/campaign/mb5-deluxe20off-memorialday",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505334553",
-        "Path": "/campaign/mb5-deluxe20off-anniversary",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511505662233",
-        "Path": "/campaign/mb7-deluxe20off-memorialday",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505695001",
-        "Path": "/campaign/mb7-deluxe20off-anniversary",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511503106329",
-        "Path": "/campaign/mb7deluxe20offwsc15a-summerw3",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511503171865",
-        "Path": "/campaign/mb7deluxe20offwsc15a-summer",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432099609",
-        "Path": "/savenow4",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137163"
-    },
-    {
-        "ID": "504432132377",
-        "Path": "/savenow5",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137164"
-    },
-    {
-        "ID": "511503401241",
-        "Path": "/campaign/mb5deluxe20offwsc",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503466777",
-        "Path": "/campaign/mb7bday22",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504432263449",
-        "Path": "/savenow9",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137168"
-    },
-    {
-        "ID": "504430362905",
-        "Path": "/campaign/age-proof-hair/*",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer"
-    },
-    {
-        "ID": "504020467993",
-        "Path": "/login/access-account",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504432427289",
-        "Path": "/search/q=de",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504023833",
-        "Path": "/campaign/mb5deluxe20offb15-yams",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504122137",
-        "Path": "/campaign/mb5deluxe20offb15_laborday",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504253209",
-        "Path": "/campaign/mb5deluxe20offb15-summer",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504351513",
-        "Path": "/campaign/mb7deluxe20offb15-memorial",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504430461209",
-        "Path": "/contactus",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504551866649",
-        "Path": "/7-piece-system-MT2A4438.html",
-        "Command": "MERGE",
-        "Target": "/products/7-piece-deluxe-face-neck-skincare-system-5"
-    },
-    {
-        "ID": "504551932185",
-        "Path": "/5-piece-system-MT2A4431.html",
-        "Command": "MERGE",
-        "Target": "/products/5-piece-essentials-skincare-system-advanced-formula-1"
-    },
-    {
-        "ID": "504431313177",
-        "Path": "/savenow15",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137174"
-    },
-    {
-        "ID": "511504908569",
-        "Path": "/campaign/mb7deluxe20offb15ndc",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511505006873",
-        "Path": "/campaign/10poff",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504552751385",
-        "Path": "/eye-enhancing-serum-MT1A0054.html",
-        "Command": "MERGE",
-        "Target": "/products/eye-enhancing-serum"
-    },
-    {
-        "ID": "504430625049",
+        "ID": "489911845158",
         "Path": "/haircare-1",
         "Command": "MERGE",
         "Target": "/pages/lp-core-ageproofhair"
     },
     {
-        "ID": "504553079065",
-        "Path": "/anti-aging-day-cr%C3%A8me-MT1A4386.html",
-        "Command": "MERGE",
-        "Target": "/products/anti-aging-day-creme-1"
-    },
-    {
-        "ID": "504430199065",
-        "Path": "/all-products-1",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "504430756121",
-        "Path": "/myaccount",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504553570585",
-        "Path": "/our-story.html",
-        "Command": "MERGE",
-        "Target": "/pages/our-story"
-    },
-    {
-        "ID": "504554193177",
-        "Path": "/accessibility.html",
-        "Command": "MERGE",
-        "Target": "/pages/accessibility"
-    },
-    {
-        "ID": "504430002457",
-        "Path": "/category/compramb",
-        "Command": "MERGE",
-        "Target": "/es"
-    },
-    {
-        "ID": "511503204633",
-        "Path": "/campaign/mb7deluxe20offdst15a",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511503302937",
-        "Path": "/campaign/mb7deluxe20offV2wsc",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504430330137",
-        "Path": "/campaign/age-proof-hair",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer"
-    },
-    {
-        "ID": "511503532313",
-        "Path": "/campaign/instant-smoothing-duo",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503728921",
-        "Path": "/campaign/mb5-deluxe25offb15-blackfriday",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504431083801",
-        "Path": "/sales-tax",
-        "Command": "MERGE",
-        "Target": "/policies/terms-of-service"
-    },
-    {
-        "ID": "511504056601",
-        "Path": "/campaign/mb7deluxe20offb15-yams",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504430428441",
-        "Path": "/cleanse-1",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "504431214873",
-        "Path": "/savenow12",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137171"
-    },
-    {
-        "ID": "504551833881",
-        "Path": "/shop",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "511504646425",
-        "Path": "/campaign/mb5deluxe20offb15srp",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504843033",
-        "Path": "/campaign/mb7deluxe20offb15cbday",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504430559513",
-        "Path": "/hair",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer"
-    },
-    {
-        "ID": "504552784153",
-        "Path": "/revive-&-brighten-eye-masque-MT1A3458.html",
-        "Command": "MERGE",
-        "Target": "/products/revive-and-brighten-eye-masque"
-    },
-    {
-        "ID": "504431542553",
-        "Path": "/savenow21",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137180"
-    },
-    {
-        "ID": "504430723353",
-        "Path": "/masque-1",
-        "Command": "MERGE",
-        "Target": "/collections/shop"
-    },
-    {
-        "ID": "504431804697",
-        "Path": "/savenow29",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137188"
-    },
-    {
-        "ID": "504431935769",
-        "Path": "/savenow32",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137191"
-    },
-    {
-        "ID": "504430297369",
-        "Path": "/brand",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504430952729",
-        "Path": "/porsha",
-        "Command": "MERGE",
-        "Target": "/?uci=US-MT-O-SO-PR-P4-XXXX-136600&utm_medium=social&utm_campaign=porsha-williams"
-    },
-    {
-        "ID": "504432230681",
-        "Path": "/savenow8",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137167"
-    },
-    {
-        "ID": "511503761689",
-        "Path": "/campaign/yamsduo",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504432460057",
-        "Path": "/search/q=hair",
-        "Command": "MERGE",
-        "Target": "/pages/lp-core-ageproofhair"
-    },
-    {
-        "ID": "504431182105",
-        "Path": "/savenow11",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137170"
-    },
-    {
-        "ID": "504552980761",
-        "Path": "/intensive-triple-exfoliating-treatment-MT1A3274.html",
-        "Command": "MERGE",
-        "Target": "/products/intensive-triple-exfoliating-treatment"
-    },
-    {
-        "ID": "511671992601",
-        "Path": "/save17",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137356&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133658&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=SMA_61-90"
-    },
-    {
-        "ID": "511672025369",
-        "Path": "/save18",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137357&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133659&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_151-180"
-    },
-    {
-        "ID": "511672058137",
-        "Path": "/save19",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137358&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133661&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_241-270"
-    },
-    {
-        "ID": "511672090905",
-        "Path": "/save20",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137359&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133662&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=SMA2_331-360"
-    },
-    {
-        "ID": "511672123673",
-        "Path": "/save21",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137360&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133663&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=SMC_331-360"
-    },
-    {
-        "ID": "511672156441",
-        "Path": "/save22",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137361&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133664&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_421-450"
-    },
-    {
-        "ID": "511672189209",
-        "Path": "/save23",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137362&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133665&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_510-540"
-    },
-    {
-        "ID": "511672221977",
-        "Path": "/save24",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137363&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133666&utm_campaign=Mar25&utm_medium=directmail&utm_source=DAP&utm_content=PCB_600-630"
-    },
-    {
-        "ID": "511672254745",
-        "Path": "/save25",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137364&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133667&utm_campaign=Apr25&utm_medium=directmail&utm_source=DAP&utm_content=SMA_61-90"
-    },
-    {
-        "ID": "511672287513",
-        "Path": "/save26",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137365&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133668&utm_campaign=Apr25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_151-180"
-    },
-    {
-        "ID": "511672320281",
-        "Path": "/save27",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137366&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133669&utm_campaign=Apr25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_241-270"
-    },
-    {
-        "ID": "511672353049",
-        "Path": "/save28",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137367&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133671&utm_campaign=Apr25&utm_medium=directmail&utm_source=DAP&utm_content=SMA2_331-360"
-    },
-    {
-        "ID": "511672385817",
-        "Path": "/save29",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137368&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133672&utm_campaign=Apr25&utm_medium=directmail&utm_source=DAP&utm_content=SMC_331-360"
-    },
-    {
-        "ID": "511672418585",
-        "Path": "/save30",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137369&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133673&utm_campaign=Apr25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_421-450"
-    },
-    {
-        "ID": "511672451353",
-        "Path": "/save31",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137370&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133674&utm_campaign=Apr25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_510-540"
-    },
-    {
-        "ID": "511672484121",
-        "Path": "/save32",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137371&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133675&utm_campaign=May25&utm_medium=directmail&utm_source=DAP&utm_content=SMA_61-90"
-    },
-    {
-        "ID": "511504318745",
-        "Path": "/campaign/mb5deluxe20offb15-memorial",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511672549657",
-        "Path": "/save34",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137373&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133677&utm_campaign=May25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_241-270"
-    },
-    {
-        "ID": "511672582425",
-        "Path": "/save35",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137374&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133678&utm_campaign=May25&utm_medium=directmail&utm_source=DAP&utm_content=SMA2_331-360"
-    },
-    {
-        "ID": "511672615193",
-        "Path": "/save36",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137375&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133679&utm_campaign=May25&utm_medium=directmail&utm_source=DAP&utm_content=SMC_331-360"
-    },
-    {
-        "ID": "511672647961",
-        "Path": "/save37",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137376&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133681&utm_campaign=May25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_421-450"
-    },
-    {
-        "ID": "511672680729",
-        "Path": "/save38",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137377&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133682&utm_campaign=May25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_510-540"
-    },
-    {
-        "ID": "511672713497",
-        "Path": "/save39",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137378&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133683&utm_campaign=Jun25&utm_medium=directmail&utm_source=DAP&utm_content=SMA_61-90"
-    },
-    {
-        "ID": "511672746265",
-        "Path": "/save40",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137379&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133684&utm_campaign=Jun25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_151-180"
-    },
-    {
-        "ID": "511672779033",
-        "Path": "/save41",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137380&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133685&utm_campaign=Jun25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_241-270"
-    },
-    {
-        "ID": "511672811801",
-        "Path": "/save42",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137381&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133686&utm_campaign=Jun25&utm_medium=directmail&utm_source=DAP&utm_content=SMA2_331-360"
-    },
-    {
-        "ID": "511672844569",
-        "Path": "/save43",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137382&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133687&utm_campaign=Jun25&utm_medium=directmail&utm_source=DAP&utm_content=SMC_331-360"
-    },
-    {
-        "ID": "511672877337",
-        "Path": "/save44",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137383&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133688&utm_campaign=Jun25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_421-450"
-    },
-    {
-        "ID": "511672910105",
-        "Path": "/save45",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137384&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133689&utm_campaign=Jun25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_510-540"
-    },
-    {
-        "ID": "511775441177",
-        "Path": "/en_us/order30?uci=US-MT-O-PS-BR-GA-XXXX-094922",
-        "Command": "MERGE",
-        "Target": "/#erid43214719"
-    },
-    {
-        "ID": "511775473945",
-        "Path": "/dw/image/v2/BKMM_PRD/on/demandware.static/-/Sites-MT-master/default/dw721963b4/images/PDP_Images_2024/content/MB_Cindy-Crawford_Skincare_101419_1243.jpg?hl=pl-PL&sh=800&sm=fit&sw=600",
-        "Command": "MERGE",
-        "Target": "/#erid43214722"
-    },
-    {
-        "ID": "511775539481",
-        "Path": "/en_us/products",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43214726"
-    },
-    {
-        "ID": "511775572249",
-        "Path": "/savenow360",
-        "Command": "MERGE",
-        "Target": "/#erid43214731"
-    },
-    {
-        "ID": "511775605017",
-        "Path": "/en_us/beyond-collection.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43214734"
-    },
-    {
-        "ID": "511775670553",
-        "Path": "/on/demandware.static/-/Sites-MeaningfulBeauty-Library/default/dwf59e412c/images/science/our-community.jpg",
-        "Command": "MERGE",
-        "Target": "/#erid43214735"
-    },
-    {
-        "ID": "511775703321",
-        "Path": "/https://meaningfulbeauty.com",
-        "Command": "MERGE",
-        "Target": "/#erid43214740"
-    },
-    {
-        "ID": "511775736089",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/ICOCart-UpdateCoreProduct/C1874799301",
-        "Command": "MERGE",
-        "Target": "/collections/shop/#erid43214751"
-    },
-    {
-        "ID": "511775768857",
-        "Path": "/en_us/cindys-daily-routine.html",
-        "Command": "MERGE",
-        "Target": "/products/7-piece-deluxe-face-neck-skincare-system#erid43214770"
-    },
-    {
-        "ID": "511775801625",
-        "Path": "/privacy.php?pactvid=nee1nqi47u2fg43broadiqcnc83rd5kq",
-        "Command": "MERGE",
-        "Target": "/policies/privacy-policy#erid43214780"
-    },
-    {
-        "ID": "511775834393",
-        "Path": "/order?gclid=CNvA08ytiegCFUJ4gQod5UoJRw&gclsrc=ds&msclkid=b70d76bc62e110e22e5228d87702ec3b&uci=US-MT-O-PS-BR-GA-XXXX-105174&utm_campaign=MT+-+Text+-+B+-+Exact&utm_content=br_URL_exact&utm_medium=cpc&utm_source=bing&utm_term=www.meaningfulbeauty.com",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43214787"
-    },
-    {
-        "ID": "511775867161",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/Home-Show?uci=US-MT-T-TP-GR-26452",
-        "Command": "MERGE",
-        "Target": "/#erid43214795"
-    },
-    {
-        "ID": "511775899929",
-        "Path": "/glowing-serum-MT1A4267.html",
-        "Command": "MERGE",
-        "Target": "/products/glowing-serum#erid43214804"
-    },
-    {
-        "ID": "511775932697",
-        "Path": "/en_us/order30fsh?uci=US-MT-O-PD-RT-GR-XXXX-095943",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43214812"
-    },
-    {
-        "ID": "511775998233",
-        "Path": "/the-meaningful-beauty-story/jean-louis-sebagh.html",
-        "Command": "MERGE",
-        "Target": "/pages/our-story#erid43214815"
-    },
-    {
-        "ID": "511776063769",
-        "Path": "/youth-activating-melon-serum-MT1A4302.html?fbclid=IwZXh0bgNhZW0CMTEAAR0Abc0CSNIiWX1BuKLcZTHpdU7UCKynsRkhFX5UtqVuEPJ19gsVpmhjazw_aem_aZ9GRQWd0RIAzn24TQ-eHg",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-melon-serum#erid43214831"
-    },
-    {
-        "ID": "511776129305",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/ICOCart-UpdateCoreProduct?gift=MT-gift-GlamorGlowDuo-main-ps&step=3",
-        "Command": "MERGE",
-        "Target": "/#erid43214836"
-    },
-    {
-        "ID": "511776194841",
-        "Path": "/en_us/5-piece-system-BKWF3H.html?msclkid=0ce0747ec7361d1fa46c13f39ab6afd1&utm_campaign=MT+-+Text+-+B+-+Exact%2FPhrase&utm_content=br_URL_exact&utm_id=go_cmp-367321093_adg-1238050268697916_ad-_kwd-77378315411796%3Aloc-4126_dev-c_ext-7902782882615_prd-_sig-&utm_medium=cpc&utm_source=bing&utm_term=meaningful+beauty+official+site",
-        "Command": "MERGE",
-        "Target": "/products/5-piece-essentials-skincare-system-1#erid43214847"
-    },
-    {
-        "ID": "511776227609",
-        "Path": "/ship-and-save.html?iitt=bjUDEkiAhMPrRfn-4IVpOIzJxJSZOFYpO.YZ4._T&membership_id=5514132&utm_campaign=Pull+Forward+Gift+Notification&utm_medium=email&utm_source=bloomreach",
-        "Command": "MERGE",
-        "Target": "/#erid43214853"
-    },
-    {
-        "ID": "511776260377",
-        "Path": "/MT1A0009.html?token=ca658e0b-84ad-415b-bf20-184fb28d17c3&utm_campaign=map&utm_medium=email&utm_source=yotpo&y_b_lid=2",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43214859"
-    },
-    {
-        "ID": "511776325913",
-        "Path": "/5-piece-deluxe-age-proof-hair-care-system-with-450%C2%B0-heat-protection-and-root-coverage-MTPG048.html?addToKitChecked=no",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1#erid43214866"
-    },
-    {
-        "ID": "511776358681",
-        "Path": "/products/4-piece-deluxe-age-proof-haircare-system?ref=yotpo&utm_campaign=general&utm_medium=general&utm_source=yotpo",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1#erid43214867"
-    },
-    {
-        "ID": "511799689497",
-        "Path": "/en_us/login/forgot-password?dwcont=C1035038810",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43240458"
-    },
-    {
-        "ID": "511799722265",
-        "Path": "/MT1A3579.html",
-        "Command": "MERGE",
-        "Target": "/#erid43240599"
-    },
-    {
-        "ID": "511799755033",
-        "Path": "/MT1A4302%20.html?token=d9c35bfc-97d6-447e-b175-c293d8e266df&y_b_lid=2",
-        "Command": "MERGE",
-        "Target": "/#erid43240619"
-    },
-    {
-        "ID": "511799787801",
-        "Path": "/stories/reviews-and-ratings,default,pg.html",
-        "Command": "MERGE",
-        "Target": "/pages/reviews-and-ratings#erid43240689"
-    },
-    {
-        "ID": "511800049945",
-        "Path": "/3-piece-age-proof-hair-care-system-MTPG047.html",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1#erid43240801"
-    },
-    {
-        "ID": "511800082713",
-        "Path": "/my-next-kit",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43240886"
-    },
-    {
-        "ID": "511800115481",
-        "Path": "/youthactivatingsyrum",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-melon-serum#erid43240978"
-    },
-    {
-        "ID": "511800181017",
-        "Path": "/exfoliators-and-masques-1",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43241310"
-    },
-    {
-        "ID": "511800213785",
-        "Path": "/treatment-serums-2",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43241380"
-    },
-    {
-        "ID": "511800344857",
-        "Path": "/stories/jean-louis-sebagh,default,pg.html",
-        "Command": "MERGE",
-        "Target": "/pages/our-story#erid43242446"
-    },
-    {
-        "ID": "511806177561",
-        "Path": "/MT2A4438.html?token=a9adc0a6-a4f7-4050-ae1f-2f56278101c6&utm_campaign=map&utm_medium=email&utm_source=yotpo&y_b_lid=2",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43250069"
-    },
-    {
-        "ID": "511806210329",
-        "Path": "/faq-customer-service",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service#erid43250092"
-    },
-    {
-        "ID": "511806243097",
-        "Path": "/logon",
-        "Command": "MERGE",
-        "Target": "/#erid43250106"
-    },
-    {
-        "ID": "511563071769",
-        "Path": "/smooth-&-shiny-conditioner-MT1A3679.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/smooth-shiny-conditioner?itc=co-usa_pr-meaningfulbeauty_pc-haircare_pv-mbh_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664801820"
-    },
-    {
-        "ID": "511563039001",
-        "Path": "/strengthening-shampoo-MT1A3677.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/strengthening-shampoo?itc=co-usa_pr-meaningfulbeauty_pc-haircare_pv-mbh_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664801820"
-    },
-    {
-        "ID": "511806341401",
-        "Path": "/howItWorks.php",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43250128"
-    },
-    {
-        "ID": "511806439705",
-        "Path": "/customizemykit",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43250140"
-    },
-    {
-        "ID": "511806472473",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/COCart-AddProduct/C1467007183",
-        "Command": "MERGE",
-        "Target": "/#erid43250157"
-    },
-    {
-        "ID": "511806505241",
-        "Path": "/MT1A4266.html?token=13b3a300-0c90-4673-9efd-6ddbabc6907a&utm_campaign=map&utm_medium=email&utm_source=yotpo&y_b_lid=2",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43250161"
-    },
-    {
-        "ID": "511806538009",
-        "Path": "/tv",
-        "Command": "MERGE",
-        "Target": "/#erid43250165"
-    },
-    {
-        "ID": "511806603545",
-        "Path": "/anti-aging-night-cr%C3%A8me-MT1A0241.html",
-        "Command": "MERGE",
-        "Target": "/products/age-recovery-night-creme-with-retinol#erid43250187"
-    },
-    {
-        "ID": "511806636313",
-        "Path": "/beauty-sleep-supplement-MTPG053.html?irclickid=1NHSLYVA-xyKUKJyq1UMpT9GUksxheWP5xu5Q00&irgwc=1&uci=US-MT-O-AF-PR-IX-XXXX-134221&utm_id=1369120&utm_medium=affiliate&utm_source=Skimbit+Ltd.",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43250196"
-    },
-    {
-        "ID": "511806669081",
-        "Path": "/age-recovery-night-cr%C3%A8me-with-melon-extract-",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43250221"
-    },
-    {
-        "ID": "511806701849",
-        "Path": "/en_us/myaccount/my-profile",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43250227"
-    },
-    {
-        "ID": "511820267801",
-        "Path": "/4-piece-full-size-deluxe-age-proof-haircare-system.html?ccg=hair40off",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1#erid43263833"
-    },
-    {
-        "ID": "511820333337",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/COCart-AddProduct/C737194644",
-        "Command": "MERGE",
-        "Target": "/#erid43263839"
-    },
-    {
-        "ID": "511820595481",
-        "Path": "/en_us/ultra-collection.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43263864"
-    },
-    {
-        "ID": "511820923161",
-        "Path": "/reviews-popup.html",
-        "Command": "MERGE",
-        "Target": "/pages/reviews-and-ratings#erid43263884"
-    },
-    {
-        "ID": "511821021465",
-        "Path": "/tv%20special%20serums%20offer",
-        "Command": "MERGE",
-        "Target": "/#erid43263889"
-    },
-    {
-        "ID": "511821480217",
-        "Path": "/4-piece-full-size-deluxe-age-proof-haircare-system-MT2A3999.html?ccg=hair40off",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1#erid43263907"
-    },
-    {
-        "ID": "511602163993",
-        "Path": "/skincare/sas/core?UTM_medium=qrcode&uci=US-MT-T-TP-PR-M2-XXXX-136920&utm_campaign=8008142043&utm_source=lftv",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43061324"
-    },
-    {
-        "ID": "511603507481",
-        "Path": "/lifting-eye-cr%C3%A8me-advanced-formula-MT1A4384.html?gad_source=1&gbraid=0AAAAADwwT4XPzcWCXWj85c76I1KOMZ3fY&gclid=Cj0KCQiA1p28BhCBARIsADP9HrMgPzHXb2gVPXVc86SdP5KQfniNu9g5g9ZV81tLGdnDn85qVFwchLUaArAZEALw_wcB&uci=US-MT-O-PS-BR-GA-XXXX-105174&utm_id=go_cmp-6455261968_adg-76928545603_ad-692877530524_dsa-19959388920_dev-m_ext-_prd-_sig-Cj0KCQiA1p28BhCBARIsADP9HrMgPzHXb2gVPXVc86SdP5KQfniNu9g5g9ZV81tLGdnDn85qVFwchLUaArAZEALw_wcB&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/products/lifting-eye-creme#erid43061482"
-    },
-    {
-        "ID": "511603900697",
-        "Path": "/src=lf_noprp_ageproofhair_ps",
-        "Command": "MERGE",
-        "Target": "/pages/lp_lf_noprp_ageproofhair_ps"
-    },
-    {
-        "ID": "511603999001",
-        "Path": "/campaign/mb8wb",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback"
-    },
-    {
-        "ID": "511607996697",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/Account-ShowCancel",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43062131"
-    },
-    {
-        "ID": "511608029465",
-        "Path": "/root-touch-up---medium-brunette-MT1A3909.html",
-        "Command": "MERGE",
-        "Target": "/products/root-touch-up#erid43062155"
-    },
-    {
-        "ID": "511608095001",
-        "Path": "/5-piece-essentials-skincare-system-MTPG001.html?yoReviewsPage=2",
-        "Command": "MERGE",
-        "Target": "/products/5-piece-essentials-skincare-system-1#erid43062171"
-    },
-    {
-        "ID": "511608193305",
-        "Path": "/campaign/hair_ps",
-        "Command": "MERGE",
-        "Target": "/pages/lp_lf_noprp_ageproofhair_ps#erid43062226"
-    },
-    {
-        "ID": "511622316313",
-        "Path": "/content/customer-service.html",
-        "Command": "MERGE",
-        "Target": "/faq-customer-service#erid43074844"
-    },
-    {
-        "ID": "511622381849",
-        "Path": "/dw/image/v2/BKMM_PRD/on/demandware.static/-/Sites-MT-master/default/dwbff32d01/images/sas/core/MB7/5PC_MB7SKIN_SAS.jpg?sh=800&sm=fit&sw=800",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7#erid43074861"
-    },
-    {
-        "ID": "511622414617",
-        "Path": "/on/demandware.static/-/Sites-MeaningfulBeauty-Library/default/dwd0eb5ac9/images/campaigns/ageproofhair/topnav-skin-mb7.jpg",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7#erid43074877"
-    },
-    {
-        "ID": "511622480153",
-        "Path": "/customer-service.html?utm_campaign=MB8+Preshipment+Notification&utm_medium=email&utm_source=bloomreach&xnpe_tifc=4Dz7OkxJhIxZbIPuOF1dxMp.EM4ladJsVsiWhF67xF1pxIbjMDH7xIY-xIHdOMpL4Dx7xIH74uY8xfn7OkY8",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service#erid43074890"
-    },
-    {
-        "ID": "511622512921",
-        "Path": "/hair/special-offer-ps",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer#erid43074923"
-    },
-    {
-        "ID": "511622578457",
-        "Path": "/skin-brightening-d%C3%A9collet%C3%A9-and-neck-treatment-MT1A4390.html",
-        "Command": "MERGE",
-        "Target": "/products/skin-brightening-decollete-and-neck-treatment#erid43074948"
-    },
-    {
-        "ID": "511622676761",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/Registration-RegistrationForm",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43074954"
-    },
-    {
-        "ID": "511622775065",
-        "Path": "/unauthorized-resellers.html",
-        "Command": "MERGE",
-        "Target": "/pages/unauthorized-resellers#erid43074986"
-    },
-    {
-        "ID": "511622938905",
-        "Path": "/firming-chest-and-neck-cr%C3%A8me-MT1A4257.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43075255"
-    },
-    {
-        "ID": "511622971673",
-        "Path": "/root-touch-up---auburn-MT1A3912.html",
-        "Command": "MERGE",
-        "Target": "/products/root-touch-up#erid43075259"
-    },
-    {
-        "ID": "511623037209",
-        "Path": "/skincare/sas/20offantiagingskincare",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43075269"
-    },
-    {
-        "ID": "511623102745",
-        "Path": "/pages/faq-customer-services",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service#erid43075290"
-    },
-    {
-        "ID": "511623135513",
-        "Path": "/passwordreset",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43075313"
-    },
-    {
-        "ID": "511623168281",
-        "Path": "/en_us/login",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43075318"
-    },
-    {
-        "ID": "511623201049",
-        "Path": "/setpassword?Token=71c2b71667ea7736c0c76ca8227ba3090f02ca152f357b&utm_campaign=password_reset&utm_medium=email&utm_source=bloomreach&xnpe_tifc=hFhsxDe.hfoJb.YZb.UubMpsafeWaeiWhFW6hMQlRfU3hfE9hIolnkEAbfs3tu4vaMp_OkPLxdYjhfeLxI4.b.V7",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43075352"
-    },
-    {
-        "ID": "511623233817",
-        "Path": "/en_us/customer-service.html",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service#erid43075365"
-    },
-    {
-        "ID": "511623266585",
-        "Path": "/faq/meaningfulbeauty.html",
-        "Command": "MERGE",
-        "Target": "/pages/faq-beautycare#erid43075388"
-    },
-    {
-        "ID": "511623364889",
-        "Path": "/ordernow",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43075401"
-    },
-    {
-        "ID": "511623397657",
-        "Path": "/root-touch-up---dark-brunette-MT1A3910.html",
-        "Command": "MERGE",
-        "Target": "/products/root-touch-up#erid43075421"
-    },
-    {
-        "ID": "511623495961",
-        "Path": "/sitemap.html",
-        "Command": "MERGE",
-        "Target": "/pages/sitemap#erid43075438"
-    },
-    {
-        "ID": "511623528729",
-        "Path": "/faq/customer-service.html?srsltid=AfmBOoqGtpg6IPnZNsuOvDI3do1bNl8GiM9-YnyxnZ5r7GQbcCzS3aDj",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service#erid43075447"
-    },
-    {
-        "ID": "511623627033",
-        "Path": "/root-touch-up---dark-blond-/-light-brunette-MT1A3913.html",
-        "Command": "MERGE",
-        "Target": "/products/root-touch-up#erid43075463"
-    },
-    {
-        "ID": "511623659801",
-        "Path": "/compramb",
-        "Command": "MERGE",
-        "Target": "/es#erid43075522"
-    },
-    {
-        "ID": "511623725337",
-        "Path": "/smooth-&-shiny-conditioner-MT1A3679.html?fbclid=IwZXh0bgNhZW0CMTEAAR1zOd8GOVJS7yYZiYAUtoa9suj4hMF2kR-alUEAsUZIMbFRbhc1AufcEh0_aem_hgZaJXXGXXwVRkfd--YBHA",
-        "Command": "MERGE",
-        "Target": "/products/smooth-shiny-conditioner#erid43075543"
-    },
-    {
-        "ID": "511628509465",
-        "Path": "/How-it-works/how-it-works,default,pg.html",
-        "Command": "MERGE",
-        "Target": "/products/7-piece-deluxe-face-neck-skincare-system-1#erid43079609"
-    },
-    {
-        "ID": "511628575001",
-        "Path": "/wrinkle-smoothing-capsules-%E2%80%94-advanced-formula-MT1A3579.html",
-        "Command": "MERGE",
-        "Target": "/products/wrinkle-smoothing-capsules#erid43079615"
-    },
-    {
-        "ID": "511628607769",
-        "Path": "/skin-softening-cleanser-MT1A3278.html",
-        "Command": "MERGE",
-        "Target": "/products/skin-softening-gentle-cleanser-1#erid43079636"
-    },
-    {
-        "ID": "511628640537",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/CMM_Login-Logout",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43079660"
-    },
-    {
-        "ID": "511637848345",
-        "Path": "/en_us/privacy-policy.html",
-        "Command": "MERGE",
-        "Target": "/policies/privacy-policy#erid43080145"
-    },
-    {
-        "ID": "511637881113",
-        "Path": "/skincare/sas/core-full-deluxe20off-wsc",
-        "Command": "MERGE",
-        "Target": "/#erid43080151"
-    },
-    {
-        "ID": "511637913881",
-        "Path": "/faq/products-hair.html",
-        "Command": "MERGE",
-        "Target": "/pages/faq-haircare#erid43080157"
-    },
-    {
-        "ID": "511637946649",
-        "Path": "/confirm",
-        "Command": "MERGE",
-        "Target": "/#erid43080170"
-    },
-    {
-        "ID": "511638012185",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/Account-PasswordResetForm",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43080180"
-    },
-    {
-        "ID": "511638044953",
-        "Path": "/es/home?src=core",
-        "Command": "MERGE",
-        "Target": "/#erid43080188"
-    },
-    {
-        "ID": "511638077721",
-        "Path": "/products/undefined",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43080192"
-    },
-    {
-        "ID": "511638110489",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/es/Product-Variation",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43080226"
-    },
-    {
-        "ID": "511639781657",
-        "Path": "/root-touch-up---black-MT1A3911.html",
-        "Command": "MERGE",
-        "Target": "/products/root-touch-up#erid43081934"
-    },
-    {
-        "ID": "511639814425",
-        "Path": "/youth-activating-melon-serum-MT1A3246.html?fbclid=PAZXh0bgNhZW0BMABhZGlkAasZetafel0Bpm6Gm09kjVIQwqxo4a0O7kOPHEKQyWxLKzk3BiNlEKQd3Rv5aabQXyrQSg_aem_6nH6Jn-1csBmJrubJA28ig&utm_campaign=BC-MT_OB-CO_CT-PR_PR-MB_CN-MB8WhitelistingCampaigns7DC1DV_AS-MB8DianeCampaignBatch1_AG-18+_GN-All_AT-BroadAplus_AU-MB8DianeCampaignBatch1_PT-Mix_BT-HV_BU-Daily_PL-MB8_AF-WebSpot_AN-P1_AD-DianeTriedMB20Yrs_PC-DW20Years_HL-DWTryMB_CS-MB_CC-Talent_PH-MB_DT-11112024_Instagram_Reels&utm_content=120216859624590397&utm_id=120214062611700397_120216859531050397_120216859624590397&utm_medium=paidsocial&utm_source=facebook&utm_term=120216859531050397",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-melon-serum#erid43081951"
-    },
-    {
-        "ID": "511639847193",
-        "Path": "/skincare/sas/25offantiagingskincare?msclkid=e18f1dbeb4f91fb575137a37f5b7d9f4&msclkid=e18f1dbeb4f91fb575137a37f5b7d9f4&utm_campaign=MT+-+Text+-+Brand+Adjacent+-+Celebrity+-+Exact%2FPhrase&utm_campaign=MT+-+Text+-+Brand+Adjacent+-+Celebrity+-+Exact%2FPhrase&utm_content=nb_celeb_prod_beauty_exact&utm_content=nb_celeb_prod_beauty_exact&utm_id=go_cmp-367321098_adg-1225955640451857_ad-_kwd-76622369808103%3Aloc-4089_dev-c_ext-_prd-_sig-&utm_medium=cpc&utm_medium=cpc&utm_source=bing&utm_source=bing&utm_term=cindy+crawford+beauty+products&utm_term=cindy+crawford+beauty+products",
-        "Command": "MERGE",
-        "Target": "/#erid43081979"
-    },
-    {
-        "ID": "511639879961",
-        "Path": "/homepage?alart=33280af5-db53-443b-87c9-5a09e6caf53c&aleid=f14656aed6f21026dabc9a8a25f9de63c697c0f4&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-socialmedia_sc-paidsocial_sd-prospecting_pu-applovin_id-456563851940&uci=US-MT-O-PD-PR-AH-MTSK-137440&utm_source=applovin",
-        "Command": "MERGE",
-        "Target": "/#erid43081998"
-    },
-    {
-        "ID": "511639912729",
-        "Path": "/en_us/order",
-        "Command": "MERGE",
-        "Target": "/#erid43082007"
-    },
-    {
-        "ID": "511639945497",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/Login-LoginForm?scope=",
-        "Command": "MERGE",
-        "Target": "/account#erid43082022"
-    },
-    {
-        "ID": "511639978265",
-        "Path": "/en_us/how-it-works.html",
-        "Command": "MERGE",
-        "Target": "/pages/our-technology"
-    },
-    {
-        "ID": "511640043801",
-        "Path": "/6-piece-essentials-skincare-system-with-wrinkle-smoothing-capsules-advanced-formula-MT2A4432.html?fbclid=IwZXh0bgNhZW0CMTEAAR0rVEcQbS08CKKD0oGijqdIgv4xOfyEW-SBCTToaxDkOwOh8qapjmapN9c_aem_xl9R7SDM8QvWw7dSPL7LIQ",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43082058"
-    },
-    {
-        "ID": "511640076569",
-        "Path": "/products/day-cream,default,pg.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43082063"
-    },
-    {
-        "ID": "511640142105",
-        "Path": "/your-free-gift.html?iitt=bjUDEkiAhMPrRfn-OF1l4.HlxJSZOFYpO.YZ4._T&membership_id=8343371&utm_campaign=Free+Gift+Notification+after+10days&utm_medium=email&utm_source=bloomreach",
-        "Command": "MERGE",
-        "Target": "/#erid43082068"
-    },
-    {
-        "ID": "511640207641",
-        "Path": "/7-piece-system-MT2A3540.html?gad_source=5&gclid=EAIaIQobChMIpfv8l6H6igMVwCCtBh2fmiwREAAYASABEgKbSvD_BwE&uci=US-MT-O-PS-NB-GA-XXXX-114902&utm_id=go_cmp-9115856816_adg-93027689900_ad-572831241523_kwd-14618331_dev-c_ext-_prd-_sig-EAIaIQobChMIpfv8l6H6igMVwCCtBh2fmiwREAAYASABEgKbSvD_BwE&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/products/7-piece-deluxe-face-neck-skincare-system#erid43082090"
-    },
-    {
-        "ID": "511640338713",
-        "Path": "/en_us/shop?keycode=C00111&uci=US-MT-C-TP-GR-25898",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43082201"
-    },
-    {
-        "ID": "511640371481",
-        "Path": "/en_us/myaccount/my-next-kit?LoginSuccessFlag=true",
-        "Command": "MERGE",
-        "Target": "/account#erid43082206"
-    },
-    {
-        "ID": "511640404249",
-        "Path": "/es/special-offer?uci=US",
-        "Command": "MERGE",
-        "Target": "/es#erid43082207"
-    },
-    {
-        "ID": "511640699161",
-        "Path": "/3-piece-age-proof-hair-care-system-MT2A3836.html?fbclid=IwZXh0bgNhZW0CMTEAAR0B5o3dGoJssGtSflJ2Sy9NJna9BY9XlSENvb78QYi5cfkq1V1mZHYC4BQ_aem_74Af4VxBzaRr0qAvOw_QlQ",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43082229"
-    },
-    {
-        "ID": "511640797465",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/Default-Start?medium=tsa&uci=US-MT-O-PS-GA-68939",
-        "Command": "MERGE",
-        "Target": "/es#erid43082276"
-    },
-    {
-        "ID": "511640830233",
-        "Path": "/es/youth-activating-melon-serum-MT1A4302.html?gad_source=1&gbraid=0AAAAADwwT4XDbaQiIRK9wK-O6qXqPrpJg&gclid=Cj0KCQiA-aK8BhCDARIsAL_-H9lGSyVZsCvfvs_zTwVN943mdC-luMtcbC8jrZcCq4bEcsE71ZRcxwYaAoEXEALw_wcB&uci=US-MT-O-PS-NB-GA-XXXX-105177&utm_id=go_cmp-6455406611_adg-78374335438_ad-692877511813_dsa-19959388920_dev-m_ext-_prd-_sig-Cj0KCQiA-aK8BhCDARIsAL_-H9lGSyVZsCvfvs_zTwVN943mdC-luMtcbC8jrZcCq4bEcsE71ZRcxwYaAoEXEALw_wcB&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-melon-serum#erid43082287"
-    },
-    {
-        "ID": "511640863001",
-        "Path": "/5-piece-deluxe-age-proof-hair-care-system-with-root-touch-up-MTPG048.html?fbclid=IwZXh0bgNhZW0CMTEAAR1ue9Kp15uidG9rRppvgj7wVjl2TaVh4UgvppLoLR_kJHGNGjj23xwyQn8_aem_n3zbi0Ay33BpCohcLoS7zA",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43082290"
-    },
-    {
-        "ID": "511640895769",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/OnSession-LogInAutoUser?autologin=1&h=321806a297248dc9d1238436e106b5fd&keycode=C20221&tp=1&trackid=C20221&uci=US-MT-C-EM-XX-GR-XXXX-102662",
-        "Command": "MERGE",
-        "Target": "/account#erid43082292"
-    },
-    {
-        "ID": "511640928537",
-        "Path": "/pore-refining-toner-MT1A0247.html?fbclid=IwZXh0bgNhZW0BMABhZGlkAasaOFY2dT0BHaEHhSeH-0v2Oq6UUPAEaoY4pyuENTqtS_gLuGb3nEqiQ73HhTivs6JCog_aem_R-gdrTUsDxSedx8UCh_4aQ&utm_campaign=BC-MT_OB-CO_CT-PR_PR-MB_CN-MB8WhitelistingCampaigns7DC1DV_AS-MB8PorshaCampaignWinners_AG-18+_GN-All_AT-BroadAplus_AU-MB8PorshaCampaignWinners_PT-Mix_BT-HV_BU-Daily_PL-MB8_AF-Static_AN-PorshaNewYAMS1_PC-PUpgradedYAMS_HL-PFaveSerum_CS-MB_CC-Influencer_PH-Porsha_DT-10072024_Facebook_Mobile_Feed&utm_content=120218644289180397&utm_id=120214062611700397_120216780220670397_120218644289180397&utm_medium=paidsocial&utm_source=facebook&utm_term=120216780220670397",
-        "Command": "MERGE",
-        "Target": "/products/pore-refining-toner#erid43082308"
-    },
-    {
-        "ID": "511644074265",
-        "Path": "/how-it-works.html?msclkid=36e1083d0e70125bab2d6fb4ef010956&utm_campaign=MT+-+Text+-+B+-+CC+-+BMM&utm_content=br_celeb_products_bmm&utm_medium=cpc&utm_source=bing&utm_term=cindy+crawford+meaningful+beauty+kit",
-        "Command": "MERGE",
-        "Target": "/pages/our-technology#erid43085907"
-    },
-    {
-        "ID": "511644107033",
-        "Path": "/glycolic-treatment-pads-MT1A0009.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43085918"
-    },
-    {
-        "ID": "511644139801",
-        "Path": "/lifting-eye-cr%C3%A8me%E2%80%94advanced-formula-MT1A3277.html?gad_source=1&gclid=Cj0KCQiA-aK8BhCDARIsAL_-H9n878oW38i7co7oSqDM04yaT7y6zsq5JZQcopzKd714AuTEiUCzpgUaAmwtEALw_wcB&msclkid=01d4dfbbb0791c34b55cb99f912b2a63&uci=US-MT-O-PS-BR-GA-XXXX-094922&uci=US-MT-O-PS-NB-GA-XXXX-105177&utm_id=go_cmp-6455406611_adg-78374335438_ad-692877511813_dsa-41622881229_dev-m_ext-_prd-_sig-Cj0KCQiA-aK8BhCDARIsAL_-H9n878oW38i7co7oSqDM04yaT7y6zsq5JZQcopzKd714AuTEiUCzpgUaAmwtEALw_wcB&utm_source=google&yoReviewsPage=11",
-        "Command": "MERGE",
-        "Target": "/products/lifting-eye-creme#erid43085924"
-    },
-    {
-        "ID": "511644172569",
-        "Path": "/on/demandware.static/-/Sites-MeaningfulBeauty-Library/default/dw5d420c3e/images/campaigns/ageproofhair/topnav-skin-mb7.jpg?fbclid=IwZXh0bgNhZW0CMTEAAR3yRHwBuTjXbavRGQ6kjuTMNyTDw9NX9_8HdFWgEVdBHo2x_aW7Ag1baik_aem_dnbIKHmS4mpQH7G5rvUZkg",
-        "Command": "MERGE",
-        "Target": "/pages/lp-core-ageproofhair#erid43085934"
-    },
-    {
-        "ID": "511644336409",
-        "Path": "/age-recovery-night-cr%C3%A8me-with-retinol-advanced-formula-MT1A4427.html?srsltid=AfmBOoonW2j0yWOmxFo8sYFl6ywUmJ9nJpk97kvq31BzLWLnVS4qIv1e",
-        "Command": "MERGE",
-        "Target": "/products/age-recovery-night-creme-with-retinol#erid43085946"
-    },
-    {
-        "ID": "511644401945",
-        "Path": "/ordernow?UCI=US-MT-O-PD-PR-GR-XXXX-129998&fbclid=IwY2xjawH2H2tleHRuA2FlbQEwAGFkaWQBqxpAwWvbPQEdo6YuyPffRNyLWGPQtQ7I-eBrjPCTnySHfzWOQ_tJ5nz15qo5VgDqgszk_aem_G5JlPF7-CoPDrNfe3FZr7g&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-socialmedia_sc-paidsocial_sd-prospecting_pu-facebook_id-456387408960&utm_campaign=B-MT_OB-CO_CT-PR_PR-MB_CN-MB8AlwaysOnCostCap7dc1dv_AS-MB8SecondChance_AG-18+_GN-All_AT-BroadAplus_AU-MB8SecondChance_PT-Mix_BT-CC_BU-Daily_PL-MB8_AF-Static_AN-HJ90dDeluxeBathFlowers_PC-WhyTryChecks_HL-AdvFormulas_CS-MB_CC-Product_PH-MB_DT-06242026_Facebook_Desktop_Feed&utm_content=120218680442070397&utm_id=120213701634640397_120218679992300397_120218680230350397&utm_medium=paidsocial&utm_source=facebook&utm_term=120218679992300397",
-        "Command": "MERGE",
-        "Target": "/#erid43085955"
-    },
-    {
-        "ID": "511644434713",
-        "Path": "/shop-member?uci=US-MT-P-OT-HF-M2-XXXX-137024&utm_campaign=invoice&utm_medium=print&utm_source=meaningfulbeauty",
-        "Command": "MERGE",
-        "Target": "/account#erid43085966"
-    },
-    {
-        "ID": "511644500249",
-        "Path": "/firming-&-tightening-body-hydration-treatment-MT1A3512.html?gad_source=1&gclid=Cj0KCQiA-aK8BhCDARIsAL_-H9nzZeelEW06g7WVVrLDIHLd9lzYl_C4bTinZD1Xl09mVLtC6D1XBtsaAv3iEALw_wcB&uci=US-MT-O-PS-BR-GA-XXXX-136541&uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/firming-tightening-body-hydration-treatment#erid43085987"
-    },
-    {
-        "ID": "511644565785",
-        "Path": "/es/revive-&-brighten-eye-masque-MT1A3458.html?gad_source=1&gclid=Cj0KCQiA-aK8BhCDARIsAL_-H9n-FMTYOMO-lFcvoBb4cEcD9kF4UAMLGqo-WbB3HoHZ_m2GRJd4mYAaAsJVEALw_wcB&uci=US-MT-O-PS-NB-GA-XXXX-105177&utm_id=go_cmp-6455406611_adg-78374335438_ad-692877511813_dsa-41622881229_dev-m_ext-_prd-_sig-Cj0KCQiA-aK8BhCDARIsAL_-H9n-FMTYOMO-lFcvoBb4cEcD9kF4UAMLGqo-WbB3HoHZ_m2GRJd4mYAaAsJVEALw_wcB&utm_source=google&yoReviewsPage=6",
-        "Command": "MERGE",
-        "Target": "/products/revive-and-brighten-eye-masque#erid43086008"
-    },
-    {
-        "ID": "511644598553",
-        "Path": "/skin-renewing-facial-tool-MT3A4471.html?fbclid=IwZXh0bgNhZW0CMTEAAR1usojUi8Q-0YosH1JALo3ig_PGQBdAznyqHn_t8QD6r3WjAmkhEcNRF2Q_aem_FGv87tK9gN9A0zIBQBRPxQ",
-        "Command": "MERGE",
-        "Target": "/products/skin-renewing-facial-tool#erid43086021"
-    },
-    {
-        "ID": "511670616345",
-        "Path": "/age-recovery-night-crme-with-retinol-advanced-formula---refill-mt1a4388.html?uci=us-mt-o-ps-nb-ga-xxxx-105177",
-        "Command": "MERGE",
-        "Target": "/products/age-recovery-night-creme-with-retinol#erid43110700"
-    },
-    {
-        "ID": "511670681881",
-        "Path": "/products/free-gift-detangling-hair-brush?fbclid=IwZXh0bgNhZW0CMTEAAR0AMoh6okuliqB1AihREdJHB3HbFQaZbANpTCUoZ34oZGEj1UZqOHFHF1s_aem_9v4ehWDYwKLoJI2FxJ92zQ",
-        "Command": "MERGE",
-        "Target": "/pages/sas-hair-special-offer#erid43110748"
-    },
-    {
-        "ID": "511670649113",
-        "Path": "/member",
-        "Command": "MERGE",
-        "Target": "/account#erid43110705"
-    },
-    {
-        "ID": "511670714649",
-        "Path": "/select-a-system/order,default,pg.html",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43110755"
-    },
-    {
-        "ID": "511670747417",
-        "Path": "/products/MT2A4434",
-        "Command": "MERGE",
-        "Target": "/shop#erid43110759"
-    },
-    {
-        "ID": "511670780185",
-        "Path": "/deep-cleansing-masque-MT1A4254.html?gad_source=1&gclid=CjwKCAiAnKi8BhB0EiwA58DA4YJO8Zrvojp8n0c8W2T-tJ4bQO1UKcqXb14qdDX02rSCT8AvnWUCpxoCv08QAvD_BwE&uci=US-MT-O-PS-NB-GA-XXXX-105177&utm_id=go_cmp-6455406611_adg-78374335438_ad-692877511813_dsa-19959388920_dev-c_ext-_prd-_sig-CjwKCAiAnKi8BhB0EiwA58DA4YJO8Zrvojp8n0c8W2T-tJ4bQO1UKcqXb14qdDX02rSCT8AvnWUCpxoCv08QAvD_BwE&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43110795"
-    },
-    {
-        "ID": "511670812953",
-        "Path": "/acct/login",
-        "Command": "MERGE",
-        "Target": "/account#erid43110797"
-    },
-    {
-        "ID": "511670878489",
-        "Path": "/en_us/myaccount/order-billing-history",
-        "Command": "MERGE",
-        "Target": "/account#erid43110803"
-    },
-    {
-        "ID": "511670911257",
-        "Path": "/ageproofhair.html",
-        "Command": "MERGE",
-        "Target": "/pages/lp-core-ageproofhair#erid43110813"
-    },
-    {
-        "ID": "511670944025",
-        "Path": "/tvoffer",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43110820"
-    },
-    {
-        "ID": "511670976793",
-        "Path": "/age-recovery-night-cr%C3%A8me-with-melon-extract-&-retinol-MT1A3397.html",
-        "Command": "MERGE",
-        "Target": "/products/age-recovery-night-creme-with-retinol#erid43110830"
-    },
-    {
-        "ID": "511671042329",
-        "Path": "/skin-brightening-d%C3%A9collet%C3%A9-and-neck-treatment-spf-15-MT1A0002.html",
-        "Command": "MERGE",
-        "Target": "/products/skin-brightening-decollete-and-neck-treatment#erid43110838"
-    },
-    {
-        "ID": "511671075097",
-        "Path": "/en_us/intensive-triple-exfoliating-treatment-BL6H3B.html",
-        "Command": "MERGE",
-        "Target": "/products/intensive-triple-exfoliating-treatment#erid43110842"
-    },
-    {
-        "ID": "511671107865",
-        "Path": "/Iogin.",
-        "Command": "MERGE",
-        "Target": "/account#erid43110843"
-    },
-    {
-        "ID": "511671140633",
-        "Path": "/deep-cleansing-masque-MT1A0105.html",
-        "Command": "MERGE",
-        "Target": "/collections/shop#erid43110850"
-    },
-    {
-        "ID": "511671173401",
-        "Path": "/anti-aging-day-cr%C3%A8me-with-environmental-protection-spf30-MT1A3280.html?gclid=EAIaIQobChMIkrjUkMHI6wIVGorICh21tgOhEAQYASABEgLHWvD_BwE&uci=US-MT-O-PS-SE-GA-XXXX-105178&utm_id=go_cmp-853595163_adg-40930437982_ad-199822613987_pla-814753182681_dev-c_ext-_prd-MT10011_sig-EAIaIQobChMIkrjUkMHI6wIVGorICh21tgOhEAQYASABEgLHWvD_BwE&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/products/anti-aging-day-creme-1#erid43110863"
-    },
-    {
-        "ID": "511671206169",
-        "Path": "/skin-brightening-d%C3%A9collet%C3%A9-and-neck-treatment-broad-spectrum-spf-15-MT1A0002.html",
-        "Command": "MERGE",
-        "Target": "/products/skin-brightening-decollete-and-neck-treatment#erid43110881"
-    },
-    {
-        "ID": "511671238937",
-        "Path": "/5-piece-ultra-skincare-system-MT2A3532.html",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43110887"
-    },
-    {
-        "ID": "511671271705",
-        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/Login-Logout",
-        "Command": "MERGE",
-        "Target": "/account#erid43110901"
-    },
-    {
-        "ID": "511671304473",
-        "Path": "/3-piece-age-proof-hair-care-premium-system-MT2A3891.html",
-        "Command": "MERGE",
-        "Target": "/pages/lp-core-ageproofhair#erid43110924"
-    },
-    {
-        "ID": "511671370009",
-        "Path": "/4-piece-deluxe-age-proof-hair-care-system-MT2A3986.html?fbclid=IwZXh0bgNhZW0BMABhZGlkAasZa1d4My0BHe_NjrNuacW-FIDRN5rET9IOm05islG5j14CB3kTcIasO2oQ_I9_rNUIfw_aem_LqLxPMGKe0dIslb1u6W8xw&utm_campaign=BC-MT_OB-CO_CT-PR_PR-MB_CN-MB8Launchpad7DC1DV_AS-MB8NewYearSale2425December30Batch_AG-18+_GN-All_AT-BroadAplus_AU-MB8NewYearSale2425December30Batch_PT-Mix_BT-HV_BU-Daily_PL-MB8_AF-Static_AN-NYSaleWhiteTray_PC-YoungerByMarch_HL-NYSale25_CS-MB_CC-Promo_PH-MB_DT-12302024_Facebook_Mobile_Feed&utm_content=120217343192410397&utm_id=120213379490680397_120217343178410397_120217343192410397&utm_medium=paidsocial&utm_source=facebook&utm_term=120217343178410397",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1#erid43110986"
-    },
-    {
-        "ID": "511671468313",
-        "Path": "/save1",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137340&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133641&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=SMA_61-90"
-    },
-    {
-        "ID": "511671501081",
-        "Path": "/save2",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137341&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133642&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_151-180"
-    },
-    {
-        "ID": "511671533849",
-        "Path": "/save3",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137342&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133643&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_241-270"
-    },
-    {
-        "ID": "511671566617",
-        "Path": "/save4",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137343&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133644&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=SMA2_331-360"
-    },
-    {
-        "ID": "511671599385",
-        "Path": "/save5",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137344&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133645&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=SMC_331-360"
-    },
-    {
-        "ID": "511671632153",
-        "Path": "/save6",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137345&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133646&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_421-450"
-    },
-    {
-        "ID": "511671664921",
-        "Path": "/save7",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137346&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133647&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_510-540"
-    },
-    {
-        "ID": "511671697689",
-        "Path": "/save8",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137347&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133648&utm_campaign=Jan25&utm_medium=directmail&utm_source=DAP&utm_content=PCB_600-630"
-    },
-    {
-        "ID": "511671730457",
-        "Path": "/save9",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137348&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133649&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=SMA_61-90"
-    },
-    {
-        "ID": "511671763225",
-        "Path": "/save10",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137349&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133651&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_151-180"
-    },
-    {
-        "ID": "511671795993",
-        "Path": "/save11",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137350&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133652&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_241-270"
-    },
-    {
-        "ID": "511671828761",
-        "Path": "/save12",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137351&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133653&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=SMA2_331-360"
-    },
-    {
-        "ID": "511671861529",
-        "Path": "/save13",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137352&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133654&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=SMC_331-360"
-    },
-    {
-        "ID": "511671894297",
-        "Path": "/save14",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137353&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133655&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_421-450"
-    },
-    {
-        "ID": "511671927065",
-        "Path": "/save15",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137354&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133656&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=PCA_510-540"
-    },
-    {
-        "ID": "511671959833",
-        "Path": "/save16",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137355&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133657&utm_campaign=Feb25&utm_medium=directmail&utm_source=DAP&utm_content=PCB_600-630"
-    },
-    {
-        "ID": "504552685849",
-        "Path": "/firming-serum-MT1A0085.html",
-        "Command": "MERGE",
-        "Target": "/products/firming-serum"
-    },
-    {
-        "ID": "504431640857",
-        "Path": "/savenow24",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137183"
-    },
-    {
-        "ID": "504553636121",
-        "Path": "/reviews-ratings.html",
-        "Command": "MERGE",
-        "Target": "/pages/reviews-and-ratings"
-    },
-    {
-        "ID": "504432034073",
-        "Path": "/savenow35",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137194"
-    },
-    {
-        "ID": "511503368473",
-        "Path": "/campaign/mb5deluxe20offdst15-spring",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503663385",
-        "Path": "/campaign/mb5-deluxe25offb15-cyber",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504432525593",
-        "Path": "/shop/hair",
-        "Command": "MERGE",
-        "Target": "/collection/shop"
-    },
-    {
-        "ID": "511672516889",
-        "Path": "/save33",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?uci=US-MT-D-OT-HF-M2-MTSK-137372&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-winback_sc-directmail_pu-dap_id-456367133676&utm_campaign=May25&utm_medium=directmail&utm_source=DAP&utm_content=SMB_151-180"
-    },
-    {
-        "ID": "511504548121",
-        "Path": "/campaign/trymbnow20off",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "504551997721",
-        "Path": "/2-piece-essentials-haircare-system-MT2A4312.html",
-        "Command": "MERGE",
-        "Target": "/products/2-piece-essentials-haircare-system"
-    },
-    {
-        "ID": "504431378713",
-        "Path": "/savenow17",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137176"
-    },
-    {
-        "ID": "511506841881",
-        "Path": "/campaign/pnlg",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506874649",
-        "Path": "/campaign/pnlsys",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506907417",
-        "Path": "/campaign/bht",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506940185",
-        "Path": "/campaign/DeluxeSpecialOfferB",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511506972953",
-        "Path": "/campaign/special-offer",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511507038489",
-        "Path": "/accessibility",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511507071257",
-        "Path": "/how-to-use",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "511507333401",
-        "Path": "/campaign/core_full_25offdeluxe",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511507398937",
-        "Path": "/ultimatefacialgiftset",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511507431705",
-        "Path": "/campaign/deluxe20off",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511562088729",
-        "Path": "/7-piece-system-MT2A4438.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/7-piece-deluxe-face-neck-skincare-system-5?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562121497",
-        "Path": "/5-piece-system-MT2A4431.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/5-piece-essentials-skincare-system-1?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562154265",
-        "Path": "/skin-softening-gentle-cleanser-MT1A4381.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/skin-softening-gentle-cleanser-1?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562187033",
-        "Path": "/youth-activating-melon-serum-advanced-formula-MT1A4377.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-melon-serum?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562219801",
-        "Path": "/lifting-eye-cr%EF%BF%BDme-advanced-formula-MT1A4384.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/lifting-eye-creme?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562252569",
-        "Path": "/anti-aging-day-cr%EF%BF%BDme-MT1A4386.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/anti-aging-day-creme-1?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562285337",
-        "Path": "/age-recovery-night-cr%EF%BF%BDme-with-retinol-advanced-formula-MTPG067.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/age-recovery-night-creme-with-retinol?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562318105",
-        "Path": "/skin-brightening-d%C5%BDcollet%C5%BD-and-neck-treatment-MT1A4390.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/skin-brightening-decollete-and-neck-treatment?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562350873",
-        "Path": "/glowing-serum-MT1A4392.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/glowing-serum?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562383641",
-        "Path": "/cr%EF%BF%BDme-de-s%C5%BDrum-MT1A0250.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/creme-de-serum?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562416409",
-        "Path": "/intensive-triple-exfoliating-treatment-MT1A3274.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/intensive-triple-exfoliating-treatment?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562449177",
-        "Path": "/ultra-lifting-and-filling-treatment-MT1A0259.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/ultra-lifting-and-filling-treatment?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562481945",
-        "Path": "/firming-&-tightening-body-hydration-treatment-MT1A3512.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/firming-tightening-body-hydration-treatment?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562514713",
-        "Path": "/wrinkle-smoothing-capsules-advanced-formula-MT1A3579.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/wrinkle-smoothing-capsules?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562547481",
-        "Path": "/revive-&-brighten-eye-masque-MT1A3458.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/revive-and-brighten-eye-masque?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562580249",
-        "Path": "/youth-activating-smoothing-and-refreshing-eye-serum-MT1A3715.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/youth-activating-smoothing-and-refreshing-eye-serum?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562613017",
-        "Path": "/dark-spot-treatment-MT1A3719.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/dark-spot-treatment?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562645785",
-        "Path": "/firming-serum-MT1A0085.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/firming-serum?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562678553",
-        "Path": "/eye-enhancing-serum-MT1A0054.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/eye-enhancing-serum?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562711321",
-        "Path": "/vitamin-c-bi-phase-brightening-oil-MT1A4286.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/vitamin-c-bi-phase-brightening-oil?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562744089",
-        "Path": "/hydrating-and-soothing-facial-mist-MT1A4287.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/hydrating-and-soothing-facial-mist?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562776857",
-        "Path": "/pore-refining-toner-MT1A4266.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/pore-refining-toner?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562809625",
-        "Path": "/skin-renewing-peel-MT1A0086.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/skin-renewing-peel?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562842393",
-        "Path": "/skin-brightening-treatment-MT1A0208.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/skin-brightening-treatment?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562875161",
-        "Path": "/vitamin-c-brightening-water-cr%EF%BF%BDme-MT1A4289.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/vitamin-c-brightening-water-creme?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664794110"
-    },
-    {
-        "ID": "511562907929",
-        "Path": "/4-piece-deluxe-age-proof-haircare-system-MT2A3986.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1?itc=co-usa_pr-meaningfulbeauty_pc-haircare_pv-mbh_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664801820"
-    },
-    {
-        "ID": "511562973465",
-        "Path": "/root-touch-up-MTPG050.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/root-touch-up?itc=co-usa_pr-meaningfulbeauty_pc-haircare_pv-mbh_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664801820"
-    },
-    {
-        "ID": "511562940697",
-        "Path": "/2-piece-essentials-haircare-system-MT2A4312.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/2-piece-essentials-haircare-system?itc=co-usa_pr-meaningfulbeauty_pc-haircare_pv-mbh_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664801820"
-    },
-    {
-        "ID": "511563006233",
-        "Path": "/restorative-scalp-treatment-MT1A3716.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/restorative-scalp-treatment?itc=co-usa_pr-meaningfulbeauty_pc-haircare_pv-mbh_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664801820"
-    },
-    {
-        "ID": "511806275865",
-        "Path": "/long",
-        "Command": "MERGE",
-        "Target": "/#erid43250112"
-    },
-    {
-        "ID": "511806374169",
-        "Path": "/7-piece-deluxe-face,-neck-",
-        "Command": "MERGE",
-        "Target": "/products/7-piece-deluxe-face-neck-skincare-system-5#erid43250132"
-    },
-    {
-        "ID": "511563104537",
-        "Path": "/styling-and-protecting-spray-MT1A3717.html?uci=US-MT-O-PS-SE-GA-XXXX-105178",
-        "Command": "MERGE",
-        "Target": "/products/styling-and-protecting-spray?itc=co-usa_pr-meaningfulbeauty_pc-haircare_pv-mbh_so-web_vn-paidsearch_sc-paidsearch_pu-googleads_id-456664801820"
-    },
-    {
-        "ID": "511594823961",
-        "Path": "/mb7",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511594987801",
-        "Path": "/mb8",
-        "Command": "MERGE",
-        "Target": "/pages/lp-skin-special-offer1"
-    },
-    {
-        "ID": "511595544857",
-        "Path": "/mb7?UCI=US-MT-O-PD-PR-GR-XXXX-129998&itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb7_so-web_vn-socialmedia_sc-paidsocial_sd-prospecting_pu-facebook_id-456387297340&utm_campaign=B-MT_OB-CO_CT-PR_PR-MB_CN-AlwaysOnReload7dc1dvBidCapversion_AS-RecentWinnersJuly%2FAugBatch_AG-18%2B_GN-All_AT-BroadAplus_AU-RecentWinnersJuly%2FAugWinnersBatch_PT-Mix_BT-BC_BU-Daily_PL-MB7_AF-Static_AN-GroupShot_PC-FreeShipToday_HL-SpecOffToday_CS-MB_CC-Organic_PH-MB_DT-09092024_OF-25off_Others&utm_content=120215298081130397&utm_id=120212473289190397_120215298006490397_120215298081130397&utm_medium=paidsocial&utm_source=facebook&utm_term=120215298006490397",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511597019417",
-        "Path": "/5-piece-system-MT2A3538.html?gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrNwgaJba-KnTvsPapzesSVDX3B6z4DfmBcMOYYXmW5_zsUJunYEuCUaAmCYEALw_wcB&uci=US-MT-O-PS-BR-GA-XXXX-105174&utm_id=go_cmp-83751555_adg-12782738715_ad-572831241079_kwd-787811625_dev-c_ext-_prd-_sig-Cj0KCQiA1p28BhCBARIsADP9HrNwgaJba-KnTvsPapzesSVDX3B6z4DfmBcMOYYXmW5_zsUJunYEuCUaAmCYEALw_wcB&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/products/5-piece-essentials-skincare-system-1"
-    },
-    {
-        "ID": "511600099609",
-        "Path": "/5-piece-system-MT2A3538.html?gad_source=1&gclid=EAIaIQobChMI_qLJos_5igMViQ9ECB1GgzQVEAAYASACEgIGY_D_BwE&uci=US-MT-O-PS-BR-GA-XXXX-105174&utm_id=go_cmp-83751555_adg-106617203401_ad-713386685257_kwd-809036152077_dev-c_ext-_prd-_sig-EAIaIQobChMI_qLJos_5igMViQ9ECB1GgzQVEAAYASACEgIGY_D_BwE&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/products/5-piece-essentials-skincare-system-1#erid43061060"
-    },
-    {
-        "ID": "511600230681",
-        "Path": "/en_us/campaign/mb7-deluxe20off-v2",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7#erid43061102"
-    },
-    {
-        "ID": "511600394521",
-        "Path": "/skin/special-offer?gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrNar0Zr_M2Fwi3BwSNgPKbL6rkekXEno7b5gl2JmMCradi5_K8JXWsaAoUOEALw_wcB&src=core&uci=US-MT-O-PS-NB-GA-XXXX-105177&utm_id=go_cmp-6455406611_adg-78374335438_ad-692877511813_dsa-19959388920_dev-m_ext-_prd-_sig-Cj0KCQiA1p28BhCBARIsADP9HrNar0Zr_M2Fwi3BwSNgPKbL6rkekXEno7b5gl2JmMCradi5_K8JXWsaAoUOEALw_wcB&utm_source=google",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer#erid43061147"
-    },
-    {
-        "ID": "511600787737",
-        "Path": "/how-to-use.html?uci=US-MT-P-OT-HF-M2-XXXX-137021&utm_campaign=mb8skinqsg&utm_medium=print&utm_source=meaningfulbeauty",
-        "Command": "MERGE",
-        "Target": "/pages/how-to-use#erid43061188"
-    },
-    {
-        "ID": "511601312025",
-        "Path": "/myaccount/my-profile?msclkid=74f75d2047b31b80c7fa3aa8ed8a8129&msclkid=74f75d2047b31b80c7fa3aa8ed8a8129&utm_campaign=MT+-+Text+-+B+-+Exact%2FPhrase&utm_campaign=MT+-+Text+-+B+-+Exact%2FPhrase&utm_content=br_URL_exact&utm_content=br_URL_exact&utm_id=go_cmp-367321093_adg-1238050268697916_ad-_kwd-77378327719396%3Aloc-4090_dev-m_ext-_prd-_sig-&utm_medium=cpc&utm_medium=cpc&utm_source=bing&utm_source=bing&utm_term=meaningful+beauty+login&utm_term=meaningful+beauty+login",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43061244"
-    },
-    {
-        "ID": "511601410329",
-        "Path": "/myaccount/order-billing-history",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43061251"
-    },
-    {
-        "ID": "511601574169",
-        "Path": "/sas-skin-spl-offer-mb7",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7#erid43061260"
-    },
-    {
-        "ID": "511601705241",
-        "Path": "/revive-&-brighten-eye-masque-MT1A3458.html?srsltid=AfmBOoo7N2h10InOLL12lZ3cAM8HzuCwsRX7fP7Mbg_5pvl1Wjgr4Bhs",
-        "Command": "MERGE",
-        "Target": "/products/revive-and-brighten-eye-masque#erid43061264"
-    },
-    {
-        "ID": "511602000153",
-        "Path": "/404",
-        "Command": "MERGE",
-        "Target": "/#erid43061304"
-    },
-    {
-        "ID": "511602065689",
-        "Path": "/myaccount/my-next-kit",
-        "Command": "MERGE",
-        "Target": "/pages/account-management#erid43061308"
-    },
-    {
-        "ID": "504552849689",
-        "Path": "/dark-spot-treatment-MT1A3719.html",
-        "Command": "MERGE",
-        "Target": "/products/dark-spot-treatment"
-    },
-    {
-        "ID": "504553439513",
-        "Path": "/skin/special-offer2?src=core",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-special-offer"
-    },
-    {
-        "ID": "504430919961",
-        "Path": "/payment",
-        "Command": "MERGE",
-        "Target": "/pages/faq-customer-service"
-    },
-    {
-        "ID": "504431018265",
-        "Path": "/privacy-policy.html",
-        "Command": "MERGE",
-        "Target": "/policies/privacy-policy"
-    },
-    {
-        "ID": "504432558361",
-        "Path": "/sitemap",
-        "Command": "MERGE",
-        "Target": "/pages/sitemap"
-    },
-    {
-        "ID": "511504711961",
-        "Path": "/campaign/mb7deluxe20offb15ndcv2",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511506776345",
-        "Path": "/campaign/mb7-holiday-offer25",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "511506809113",
-        "Path": "/campaign/mb7-holiday-offer20",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504431608089",
-        "Path": "/savenow23",
-        "Command": "MERGE",
-        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137182"
-    },
-    {
-        "ID": "511503008025",
-        "Path": "/campaign/main2",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511503827225",
-        "Path": "/campaign/mb5-deluxe25offb15a",
-        "Command": "MERGE",
-        "Target": "/"
-    },
-    {
-        "ID": "511504613657",
-        "Path": "/campaign/mb7deluxe20offb15srp-spring",
-        "Command": "MERGE",
-        "Target": "/pages/sas-skin-spl-offer-mb7"
-    },
-    {
-        "ID": "504553341209",
+        "ID": "489908797734",
         "Path": "/styling-and-protecting-spray-MT1A3717.html",
         "Command": "MERGE",
         "Target": "/products/styling-and-protecting-spray"
     },
     {
-        "ID": "504432197913",
+        "ID": "490405822758",
+        "Path": "/signin",
+        "Command": "MERGE",
+        "Target": "/pages/account-management"
+    },
+    {
+        "ID": "489911943462",
+        "Path": "/frequency",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489910173990",
+        "Path": "/search/q=2",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489912041766",
+        "Path": "/cleanse-1",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489909289254",
+        "Path": "/dark-spot-treatment-MT1A3719.html",
+        "Command": "MERGE",
+        "Target": "/products/dark-spot-treatment"
+    },
+    {
+        "ID": "489912140070",
+        "Path": "/campaign/age-proof-hair",
+        "Command": "MERGE",
+        "Target": "/pages/sas-hair-special-offer"
+    },
+    {
+        "ID": "489910272294",
         "Path": "/savenow7",
         "Command": "MERGE",
         "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137166"
     },
     {
-        "ID": "504020435225",
-        "Path": "/login",
+        "ID": "490652270886",
+        "Path": "/campaign/core2",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489912238374",
+        "Path": "/billing",
         "Command": "MERGE",
         "Target": "/pages/faq-customer-service"
     },
     {
-        "ID": "511503270169",
-        "Path": "/campaign/mb5deluxe20offdst15-mom",
+        "ID": "489908601126",
+        "Path": "/hair/special-offer?src=core_full_ageproofhair",
+        "Command": "MERGE",
+        "Target": "/pages/sas-hair-special-offer"
+    },
+    {
+        "ID": "489912336678",
+        "Path": "/src=mb8wb",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback"
+    },
+    {
+        "ID": "489911746854",
+        "Path": "/masque-1",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489910370598",
+        "Path": "/savenow4",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137163"
+    },
+    {
+        "ID": "489912434982",
+        "Path": "/FAQ",
+        "Command": "MERGE",
+        "Target": "/pages/faq"
+    },
+    {
+        "ID": "489909387558",
+        "Path": "/eye-enhancing-serum-MT1A0054.html",
+        "Command": "MERGE",
+        "Target": "/products/eye-enhancing-serum"
+    },
+    {
+        "ID": "489912533286",
+        "Path": "/haircare/sas/ageproofhair",
+        "Command": "MERGE",
+        "Target": "/pages/sas-hair-special-offer"
+    },
+    {
+        "ID": "489910468902",
+        "Path": "/savenow34",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137193"
+    },
+    {
+        "ID": "490133192998",
+        "Path": "/save25",
+        "Command": "MERGE",
+        "Target": "/?itc=co-usa_pr-meaningfulbeauty_pc-skincare_pv-mb8_so-web_vn-directmail_sc-directmail_sd-retargeting_pu-meaningfulbeauty_id-456604785020&utm_campaign=save25retarget&utm_medium=directmail&utm_source=modernpostcard&utm_content=core_offer"
+    },
+    {
+        "ID": "489908896038",
+        "Path": "/strengthening-shampoo-MT1A3677.html",
+        "Command": "MERGE",
+        "Target": "/products/strengthening-shampoo"
+    },
+    {
+        "ID": "490652500262",
+        "Path": "/campaign/mb5-deluxe20off-summer",
         "Command": "MERGE",
         "Target": "/"
     },
     {
-        "ID": "511504941337",
-        "Path": "/campaign/mb5deluxe20offb15ndc",
+        "ID": "490652893478",
+        "Path": "/campaign/mb7-deluxe20off-memorialday",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652926246",
+        "Path": "/campaign/mb7-deluxe20off-anniversary",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652959014",
+        "Path": "/campaign/mb7-deluxe20off-mom",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652991782",
+        "Path": "/campaign/mb7-deluxe20off-spring",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490653024550",
+        "Path": "/campaign/mb7-deluxe20off",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490653057318",
+        "Path": "/campaign/deluxe-special-offer",
         "Command": "MERGE",
         "Target": "/"
     },
     {
-        "ID": "511504417049",
+        "ID": "490653090086",
+        "Path": "/campaign/special-offer-panelc",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653122854",
+        "Path": "/campaign/20offdeluxe",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653155622",
+        "Path": "/campaign/friend50poff",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653188390",
+        "Path": "/campaign/main",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653221158",
+        "Path": "/anti-aging-skincare",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653253926",
+        "Path": "/core-full-deluxe20off-wsc",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653286694",
+        "Path": "/20off-anti-aging-skincare",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653319462",
+        "Path": "/core_full_25offdeluxe",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653352230",
+        "Path": "/age-proof-hair",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653384998",
+        "Path": "/campaign/age-proof-hair-live",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653417766",
+        "Path": "/campaign/ps-age-proof-hair",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653450534",
+        "Path": "/products",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490653483302",
+        "Path": "/youth-activating-melon-serum-BL6H33.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653516070",
+        "Path": "/anti-aging-day-cr%C3%A8me-with-environmental-protection-spf30-BL6H34.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653548838",
+        "Path": "/-BL6H36.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653581606",
+        "Path": "/-BL6H37.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653614374",
+        "Path": "/skin-softening-cleanser-BL6H38.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653647142",
+        "Path": "/skin-brightening-decollete-and-neck-treatment-broad-spectrum-spf-15-BL6H39.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653679910",
+        "Path": "/dark-spot-correcting-treatment-BL6H3A.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653712678",
+        "Path": "/intensive-triple-exfoliating-treatment-BL6H3B.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653745446",
+        "Path": "/ultra-lifting-and-filling-treatment-BL6H3C.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490650468646",
+        "Path": "/campaign/mb7deluxe20offwsc-mom",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489910829350",
+        "Path": "/savenow24",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137183"
+    },
+    {
+        "ID": "490650566950",
+        "Path": "/campaign/mb7deluxe20offwsc-spring",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489909616934",
+        "Path": "/2-piece-essentials-haircare-system-MT2A4312.html",
+        "Command": "MERGE",
+        "Target": "/products/2-piece-essentials-haircare-system"
+    },
+    {
+        "ID": "490650665254",
+        "Path": "/campaign/mb7deluxe20offwsc15a",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489910927654",
+        "Path": "/savenow21",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137180"
+    },
+    {
+        "ID": "490650763558",
+        "Path": "/campaign/instant-smoothing-duo",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489908437286",
+        "Path": "/terms-conditions.html",
+        "Command": "MERGE",
+        "Target": "/policies/terms-of-service"
+    },
+    {
+        "ID": "490650861862",
+        "Path": "/campaign/mb7-deluxe25offb15-cyber",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489911025958",
+        "Path": "/savenow19",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137178"
+    },
+    {
+        "ID": "490650960166",
+        "Path": "/campaign/mb5-deluxe25offb15-blackfriday",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909715238",
+        "Path": "/7-piece-system-MT2A4438.html",
+        "Command": "MERGE",
+        "Target": "/products/7-piece-deluxe-face-neck-skincare-system-5"
+    },
+    {
+        "ID": "490651058470",
+        "Path": "/campaign/mb5-deluxe25offb15a",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489911124262",
+        "Path": "/savenow16",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137175"
+    },
+    {
+        "ID": "490651156774",
+        "Path": "/campaign/mb7deluxe20offwsc",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489909059878",
+        "Path": "/anti-aging-day-cr%C3%A8me-MT1A4386.html",
+        "Command": "MERGE",
+        "Target": "/products/anti-aging-day-creme-1"
+    },
+    {
+        "ID": "490651255078",
+        "Path": "/campaign/mb5deluxe20offb15-yams",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489911222566",
+        "Path": "/savenow13",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137172"
+    },
+    {
+        "ID": "490651353382",
+        "Path": "/campaign/mb5deluxe20offb15_laborday",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909813542",
+        "Path": "/systems-1",
+        "Command": "MERGE",
+        "Target": "/collection/shop"
+    },
+    {
+        "ID": "490651451686",
+        "Path": "/campaign/mb5deluxe20offb15-July4",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489911320870",
+        "Path": "/savenow10",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137169"
+    },
+    {
+        "ID": "490651549990",
+        "Path": "/campaign/mb5deluxe20offb15-memorial",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489908732198",
+        "Path": "/skin/special-offer2",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-special-offer"
+    },
+    {
+        "ID": "490651648294",
         "Path": "/campaign/mb5deluxe20offb15-mom",
         "Command": "MERGE",
         "Target": "/"
     },
     {
-        "ID": "504553668889",
-        "Path": "/faq/products.html",
+        "ID": "489911419174",
+        "Path": "/profile",
         "Command": "MERGE",
-        "Target": "/pages/faq"
+        "Target": "/pages/faq-customer-service"
     },
     {
-        "ID": "511503958297",
+        "ID": "490651746598",
+        "Path": "/campaign/specialofferpanelc20off",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909911846",
+        "Path": "/sitemap",
+        "Command": "MERGE",
+        "Target": "/pages/sitemap"
+    },
+    {
+        "ID": "490651844902",
+        "Path": "/campaign/mb7deluxe20offb15srp-spring",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489911517478",
+        "Path": "/porsha",
+        "Command": "MERGE",
+        "Target": "/?uci=US-MT-O-SO-PR-P4-XXXX-136600&utm_medium=social&utm_campaign=porsha-williams"
+    },
+    {
+        "ID": "490651943206",
+        "Path": "/campaign/mb7deluxe20offb15ndcv2",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489909158182",
+        "Path": "/intensive-triple-exfoliating-treatment-MT1A3274.html",
+        "Command": "MERGE",
+        "Target": "/products/intensive-triple-exfoliating-treatment"
+    },
+    {
+        "ID": "490652041510",
+        "Path": "/campaign/core_full_v2",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489911615782",
+        "Path": "/orderstatus",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489911681318",
+        "Path": "/mykit",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489908568358",
+        "Path": "/our-story.html",
+        "Command": "MERGE",
+        "Target": "/pages/our-story"
+    },
+    {
+        "ID": "489909223718",
+        "Path": "/skin-renewing-peel-MT1A0086.html",
+        "Command": "MERGE",
+        "Target": "/products/skin-renewing-peel"
+    },
+    {
+        "ID": "489911910694",
+        "Path": "/hair",
+        "Command": "MERGE",
+        "Target": "/pages/sas-hair-special-offer"
+    },
+    {
+        "ID": "489911976230",
+        "Path": "/es/campaign/compramb/*",
+        "Command": "MERGE",
+        "Target": "/es"
+    },
+    {
+        "ID": "489910206758",
+        "Path": "/savenow9",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137168"
+    },
+    {
+        "ID": "489910239526",
+        "Path": "/savenow8",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137167"
+    },
+    {
+        "ID": "489912205606",
+        "Path": "/body-1",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489912271142",
+        "Path": "/all-products-1",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489909354790",
+        "Path": "/revive-&-brighten-eye-masque-MT1A3458.html",
+        "Command": "MERGE",
+        "Target": "/products/revive-and-brighten-eye-masque"
+    },
+    {
+        "ID": "489912402214",
+        "Path": "/customerservice",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489912467750",
+        "Path": "/category/compramb",
+        "Command": "MERGE",
+        "Target": "/es"
+    },
+    {
+        "ID": "489908371750",
+        "Path": "/privacy-policy",
+        "Command": "MERGE",
+        "Target": "/policies/privacy-policy"
+    },
+    {
+        "ID": "489909420326",
+        "Path": "/youth-activating-smoothing-and-refreshing-eye-serum-MT1A3715.html",
+        "Command": "MERGE",
+        "Target": "/products/youth-activating-smoothing-and-refreshing-eye-serum"
+    },
+    {
+        "ID": "490405789990",
+        "Path": "/sign-in",
+        "Command": "MERGE",
+        "Target": "/pages/account-management"
+    },
+    {
+        "ID": "490652172582",
+        "Path": "/campaign/mb5deluxe20offb15ndc",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909453094",
+        "Path": "/firming-serum-MT1A0085.html",
+        "Command": "MERGE",
+        "Target": "/products/firming-serum"
+    },
+    {
+        "ID": "490406117670",
+        "Path": "/pages/log-in",
+        "Command": "MERGE",
+        "Target": "/pages/account-management"
+    },
+    {
+        "ID": "490652369190",
+        "Path": "/campaign/mb5-deluxe25offb15",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652401958",
+        "Path": "/campaign/mb5deluxe20offb15",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489910567206",
+        "Path": "/savenow31",
+        "Command": "MERGE",
+        "Target": "/campaign/mb8wb/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137190"
+    },
+    {
+        "ID": "490652533030",
+        "Path": "/campaign/mb5-deluxe20off-memorialday",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652565798",
+        "Path": "/campaign/mb5-deluxe20off-anniversary",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652598566",
+        "Path": "/campaign/mb5-deluxe20off-mom",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652631334",
+        "Path": "/campaign/mb5-deluxe20off-spring",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652664102",
+        "Path": "/campaign/mb5-deluxe20off",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652696870",
+        "Path": "/campaign/mb7-deluxe25offb15",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652729638",
+        "Path": "/campaign/mb7deluxe20offb15",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652762406",
+        "Path": "/campaign/mb7-deluxe20off-laborday",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652795174",
+        "Path": "/campaign/mb7deluxe20offb",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652827942",
+        "Path": "/campaign/mb7-deluxe20off-july4th",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652860710",
+        "Path": "/campaign/mb7-deluxe20off-summer",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490406543654",
+        "Path": "/pages/login",
+        "Command": "MERGE",
+        "Target": "/pages/account-management"
+    },
+    {
+        "ID": "489910599974",
+        "Path": "/savenow30",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137189"
+    },
+    {
+        "ID": "490650108198",
+        "Path": "/account/login",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489908928806",
+        "Path": "/firming-&-tightening-body-hydration-treatment-MT1A3512.html",
+        "Command": "MERGE",
+        "Target": "/products/firming-tightening-body-hydration-treatment"
+    },
+    {
+        "ID": "490650206502",
+        "Path": "/campaign/mb7wb",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489910698278",
+        "Path": "/savenow28",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137187"
+    },
+    {
+        "ID": "490650304806",
+        "Path": "/campaign/mb5deluxe25offdst15",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909551398",
+        "Path": "/glowing-serum-MT1A4392.html",
+        "Command": "MERGE",
+        "Target": "/products/glowing-serum"
+    },
+    {
+        "ID": "490650403110",
+        "Path": "/campaign/mb7deluxe20offwsc15a-summer",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489910796582",
+        "Path": "/savenow25",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137184"
+    },
+    {
+        "ID": "490650534182",
+        "Path": "/campaign/mb7deluxe20offV2wsc",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490650599718",
+        "Path": "/campaign/mb5deluxe20offdst15-spring",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489908994342",
+        "Path": "/pore-refining-toner-MT1A4266.html",
+        "Command": "MERGE",
+        "Target": "/products/pore-refining-toner"
+    },
+    {
+        "ID": "489909649702",
+        "Path": "/5-piece-system-MT2A4431.html",
+        "Command": "MERGE",
+        "Target": "/products/5-piece-essentials-skincare-system-advanced-formula-1"
+    },
+    {
+        "ID": "490650829094",
+        "Path": "/campaign/mb7-deluxe25offb15-newyear",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490650894630",
+        "Path": "/campaign/mb5-deluxe25offb15-cyber",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489911058726",
+        "Path": "/savenow18",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137177"
+    },
+    {
+        "ID": "489911091494",
+        "Path": "/savenow17",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137176"
+    },
+    {
+        "ID": "490651124006",
+        "Path": "/campaign/mb5deluxe20offdst15",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490651189542",
         "Path": "/campaign/core-full-deluxe20off-wsc",
         "Command": "MERGE",
         "Target": "/"
     },
     {
-        "ID": "511823642905",
-        "Path": "/en_us/login/create-account",
+        "ID": "489909780774",
+        "Path": "/vip",
         "Command": "MERGE",
-        "Target": "/pages/account-management#erid43263997"
+        "Target": "/"
     },
     {
-        "ID": "511823970585",
+        "ID": "489908535590",
+        "Path": "/our-technology.html",
+        "Command": "MERGE",
+        "Target": "/pages/our-technology"
+    },
+    {
+        "ID": "490651418918",
+        "Path": "/campaign/mb7deluxe20offb15-July4",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490651484454",
+        "Path": "/campaign/mb5deluxe20offb15-summer",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489911353638",
+        "Path": "/savenow1",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_61-90&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137160"
+    },
+    {
+        "ID": "489911386406",
+        "Path": "/sales-tax",
+        "Command": "MERGE",
+        "Target": "/policies/terms-of-service"
+    },
+    {
+        "ID": "490651713830",
+        "Path": "/campaign/mb5deluxe25offb15_anniversary",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490651779366",
+        "Path": "/campaign/trymbnow20off",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489908404518",
+        "Path": "/accessibility.html",
+        "Command": "MERGE",
+        "Target": "/pages/accessibility"
+    },
+    {
+        "ID": "489909944614",
+        "Path": "/shop/hair",
+        "Command": "MERGE",
+        "Target": "/collection/shop"
+    },
+    {
+        "ID": "490652008742",
+        "Path": "/campaign/core_full_deluxe20offv3",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652074278",
+        "Path": "/campaign/mb7deluxe20offb15cbday",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489911714086",
+        "Path": "/myaccount",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489911812390",
+        "Path": "/haircare-2",
+        "Command": "MERGE",
+        "Target": "/pages/lp-core-ageproofhair"
+    },
+    {
+        "ID": "489910141222",
+        "Path": "/search/q=5",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489908470054",
+        "Path": "/faq/products.html",
+        "Command": "MERGE",
+        "Target": "/pages/faq"
+    },
+    {
+        "ID": "489908830502",
+        "Path": "/restorative-scalp-treatment-MT1A3716.html",
+        "Command": "MERGE",
+        "Target": "/products/restorative-scalp-treatment"
+    },
+    {
+        "ID": "489910305062",
+        "Path": "/savenow6",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137165"
+    },
+    {
+        "ID": "489912369446",
+        "Path": "/help",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489910403366",
+        "Path": "/savenow36",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137195"
+    },
+    {
+        "ID": "489912631590",
+        "Path": "/login/access-account",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "490405757222",
         "Path": "/sign%20in",
         "Command": "MERGE",
-        "Target": "/pages/account-management#erid43264017"
+        "Target": "/pages/account-management"
     },
     {
-        "ID": "512203522329",
+        "ID": "490652205350",
+        "Path": "/campaign/mb7deluxe20offb15-test",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490652238118",
+        "Path": "/campaign/10poff",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652303654",
+        "Path": "/campaign/core90",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652336422",
+        "Path": "/campaign/trymbnow",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652434726",
+        "Path": "/campaign/mb5-deluxe20off-laborday",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490652467494",
+        "Path": "/campaign/mb5-deluxe20off-july4th",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489908633894",
+        "Path": "/hair/special-offer",
+        "Command": "MERGE",
+        "Target": "/pages/sas-hair-special-offer"
+    },
+    {
+        "ID": "489909485862",
+        "Path": "/ultra-lifting-and-filling-treatment-MT1A0259.html",
+        "Command": "MERGE",
+        "Target": "/products/ultra-lifting-and-filling-treatment"
+    },
+    {
+        "ID": "490650173734",
+        "Path": "/campaign/mb7deluxe25offwsc15b",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490650239270",
+        "Path": "/campaign/main2",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489910731046",
+        "Path": "/savenow27",
+        "Command": "MERGE",
+        "Target": "/campaign/mb8wb/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137186"
+    },
+    {
+        "ID": "489910763814",
+        "Path": "/savenow26",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137185"
+    },
+    {
+        "ID": "489909584166",
+        "Path": "/youth-activating-melon-serum-advanced-formula-MT1A4377.html",
+        "Command": "MERGE",
+        "Target": "/products/youth-activating-melon-serum"
+    },
+    {
+        "ID": "489910862118",
+        "Path": "/savenow23",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137182"
+    },
+    {
+        "ID": "490650698022",
+        "Path": "/campaign/mb7bday22",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490650796326",
+        "Path": "/campaign/mb5-deluxe25offb15-newyear",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490650927398",
+        "Path": "/campaign/mb7-deluxe25offb15-blackfriday",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490651025702",
+        "Path": "/campaign/mb7-deluxe25offb15a",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489909748006",
+        "Path": "/shop",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489911189798",
+        "Path": "/savenow14",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137173"
+    },
+    {
+        "ID": "489911255334",
+        "Path": "/savenow12",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_510-540&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137171"
+    },
+    {
+        "ID": "489909092646",
+        "Path": "/hydrating-and-soothing-facial-mist-MT1A4287.html",
+        "Command": "MERGE",
+        "Target": "/products/hydrating-and-soothing-facial-mist"
+    },
+    {
+        "ID": "490651582758",
+        "Path": "/campaign/mb7deluxe20offb15-memorial",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490651681062",
+        "Path": "/campaign/mb7deluxe25offb15_anniversary",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490651812134",
+        "Path": "/campaign/mb5deluxe20offb15srp-spring",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490651910438",
+        "Path": "/campaign/mb7deluxe20offb15srp",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489911583014",
+        "Path": "/pay",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489910010150",
+        "Path": "/search/q=hair",
+        "Command": "MERGE",
+        "Target": "/pages/lp-core-ageproofhair"
+    },
+    {
+        "ID": "489910108454",
+        "Path": "/search/q=body",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489912008998",
+        "Path": "/contactus",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489912172838",
+        "Path": "/brand",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489910337830",
+        "Path": "/savenow5",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137164"
+    },
+    {
+        "ID": "489912500518",
+        "Path": "/treat-1*",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489910501670",
+        "Path": "/savenow33",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137192"
+    },
+    {
+        "ID": "490409427238",
+        "Path": "/log-in",
+        "Command": "MERGE",
+        "Target": "/pages/account-management"
+    },
+    {
+        "ID": "489908666662",
+        "Path": "/src=core_full_ageproofhair",
+        "Command": "MERGE",
+        "Target": "/pages/lp-core-ageproofhair"
+    },
+    {
+        "ID": "490650730790",
+        "Path": "/campaign/mb5bday22",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909682470",
+        "Path": "/4-piece-deluxe-age-proof-haircare-system-MT2A3986.html",
+        "Command": "MERGE",
+        "Target": "/products/4-piece-deluxe-age-proof-haircare-system-1"
+    },
+    {
+        "ID": "489908699430",
+        "Path": "/skin/special-offer2?src=core",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-special-offer"
+    },
+    {
+        "ID": "490651222310",
+        "Path": "/campaign/mb7deluxe20offdst15",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490651386150",
+        "Path": "/campaign/mb7deluxe20offb15_laborday",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489909846310",
+        "Path": "/status",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489909125414",
+        "Path": "/vitamin-c-brightening-water-cr%C3%A8me-MT1A4289.html",
+        "Command": "MERGE",
+        "Target": "/products/vitamin-c-brightening-water-creme"
+    },
+    {
+        "ID": "490651877670",
+        "Path": "/campaign/mb5deluxe20offb15srp",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909977382",
+        "Path": "/shipmentstatus",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489911779622",
+        "Path": "/hydrate-1",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489912074534",
+        "Path": "/catalog",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "489912303910",
+        "Path": "/age-proof-hair-ps",
+        "Command": "MERGE",
+        "Target": "/pages/sas-hair-special-offer"
+    },
+    {
+        "ID": "489910436134",
+        "Path": "/savenow35",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137194"
+    },
+    {
+        "ID": "490652139814",
+        "Path": "/campaign/mb7deluxe20offb15ndc",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490409460006",
+        "Path": "/login",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489910665510",
+        "Path": "/savenow29",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Nov24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137188"
+    },
+    {
+        "ID": "489908502822",
+        "Path": "/reviews-ratings.html",
+        "Command": "MERGE",
+        "Target": "/pages/reviews-and-ratings"
+    },
+    {
+        "ID": "490653778214",
+        "Path": "/plumping-lip-gloss-BL6H3D.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653810982",
+        "Path": "/remodeling-lip-serum-BL6H3E.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653843750",
+        "Path": "/-BL6H3F.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653876518",
+        "Path": "/5-piece-system-BKWF3H.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653909286",
+        "Path": "/7-piece-system-BKWF3W.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653942054",
+        "Path": "/ultra-5-piece-system-BKWF4W.html",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490653974822",
+        "Path": "/on/demandware.store/Sites-MeaningfulBeauty-Site/default/CustomerService-ContactUs",
+        "Command": "MERGE",
+        "Target": "/collections/shop"
+    },
+    {
+        "ID": "490654007590",
+        "Path": "/campaign/mb7-holiday-offer25",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490654040358",
+        "Path": "/campaign/mb7-holiday-offer20",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "490654073126",
+        "Path": "/campaign/pnlg",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490654105894",
+        "Path": "/campaign/pnlsys",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490654138662",
+        "Path": "/campaign/bht",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490654171430",
+        "Path": "/campaign/DeluxeSpecialOfferB",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490654204198",
+        "Path": "/campaign/special-offer",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490654236966",
+        "Path": "/campaign/compramb",
+        "Command": "MERGE",
+        "Target": "/es"
+    },
+    {
+        "ID": "490654269734",
+        "Path": "/accessibility",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "490654302502",
+        "Path": "/how-to-use",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "490654499110",
+        "Path": "/campaign/core_full_25offdeluxe",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490654531878",
+        "Path": "/ultimatefacialgiftset",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490654564646",
+        "Path": "/campaign/deluxe20off",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "491343544614",
         "Path": "/products/7piece-deluxe-skincare-system",
         "Command": "MERGE",
         "Target": "/products/7-piece-deluxe-face-neck-skincare-system-5"
     },
     {
-        "ID": "511822299417",
-        "Path": "/collections/shop%20order",
+        "ID": "489908961574",
+        "Path": "/skin-softening-gentle-cleanser-MT1A4381.html",
         "Command": "MERGE",
-        "Target": "/collections/shop#erid43263931"
+        "Target": "/products/skin-softening-gentle-cleanser-1"
     },
     {
-        "ID": "511822758169",
-        "Path": "/pages/account",
+        "ID": "490650632486",
+        "Path": "/campaign/mb5deluxe20offwsc",
         "Command": "MERGE",
-        "Target": "/pages/account-management#erid43263947"
+        "Target": "/"
     },
     {
-        "ID": "511823315225",
-        "Path": "/signin",
+        "ID": "489910993190",
+        "Path": "/savenow2",
         "Command": "MERGE",
-        "Target": "/pages/account-management#erid43263975"
+        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137161"
+    },
+    {
+        "ID": "490651091238",
+        "Path": "/campaign/core-20offdeluxe-dst",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490651320614",
+        "Path": "/campaign/20offdeluxeskin_hair",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490651615526",
+        "Path": "/campaign/mb7deluxe20offb15-mom",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489911484710",
+        "Path": "/privacy",
+        "Command": "MERGE",
+        "Target": "/policies/privacy-policy"
+    },
+    {
+        "ID": "489908764966",
+        "Path": "/root-touch-up-MTPG050.html",
+        "Command": "MERGE",
+        "Target": "/products/root-touch-up"
+    },
+    {
+        "ID": "489909256486",
+        "Path": "/wrinkle-smoothing-capsules-advanced-formula-MT1A3579.html",
+        "Command": "MERGE",
+        "Target": "/products/wrinkle-smoothing-capsules"
+    },
+    {
+        "ID": "490652107046",
+        "Path": "/campaign/mb5deluxe20offb15cbday",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489908863270",
+        "Path": "/smooth-&-shiny-conditioner-MT1A3679.html",
+        "Command": "MERGE",
+        "Target": "/products/smooth-shiny-conditioner"
+    },
+    {
+        "ID": "489910632742",
+        "Path": "/savenow3",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=July24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137162"
+    },
+    {
+        "ID": "490650272038",
+        "Path": "/campaign/coreV2",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490650435878",
+        "Path": "/campaign/mb7deluxe20offdst15a",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489910894886",
+        "Path": "/savenow22",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMA_331-360&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137181"
+    },
+    {
+        "ID": "490650992934",
+        "Path": "/campaign/yamsduo",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489911288102",
+        "Path": "/savenow11",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Aug24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_421-450&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137170"
+    },
+    {
+        "ID": "489911451942",
+        "Path": "/privacy-policy.html",
+        "Command": "MERGE",
+        "Target": "/policies/privacy-policy"
+    },
+    {
+        "ID": "489910042918",
+        "Path": "/search/q=de",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "489909322022",
+        "Path": "/vitamin-c-bi-phase-brightening-oil-MT1A4286.html",
+        "Command": "MERGE",
+        "Target": "/products/vitamin-c-bi-phase-brightening-oil"
+    },
+    {
+        "ID": "490650140966",
+        "Path": "/account",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "490650370342",
+        "Path": "/campaign/mb7deluxe25offwsc15a",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489910960422",
+        "Path": "/savenow20",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Oct24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137179"
+    },
+    {
+        "ID": "490651287846",
+        "Path": "/campaign/mb7deluxe20offb15-yams",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489911550246",
+        "Path": "/payment",
+        "Command": "MERGE",
+        "Target": "/pages/faq-customer-service"
+    },
+    {
+        "ID": "489912107302",
+        "Path": "/campaign/age-proof-hair/*",
+        "Command": "MERGE",
+        "Target": "/pages/sas-hair-special-offer"
+    },
+    {
+        "ID": "489909518630",
+        "Path": "/cr%C3%A8me-de-s%C3%A9rum-MT1A0250.html",
+        "Command": "MERGE",
+        "Target": "/products/creme-de-serum"
+    },
+    {
+        "ID": "489909027110",
+        "Path": "/age-recovery-night-cr%C3%A8me-with-retinol-advanced-formula-MTPG067.html",
+        "Command": "MERGE",
+        "Target": "/products/age-recovery-night-creme-with-retinol"
+    },
+    {
+        "ID": "489909879078",
+        "Path": "/skinny",
+        "Command": "MERGE",
+        "Target": "/?utm_medium=podcast&amp%3Butm_source=skinnyconfidential&amp%3Butm_campaign=cindy"
+    },
+    {
+        "ID": "489912697126",
+        "Path": "/skincare-how-to-use.html",
+        "Command": "MERGE",
+        "Target": "/products/7-piece-deluxe-face-neck-skincare-system-5"
+    },
+    {
+        "ID": "490650501414",
+        "Path": "/campaign/mb5deluxe20offdst15-mom",
+        "Command": "MERGE",
+        "Target": "/"
+    },
+    {
+        "ID": "490651517222",
+        "Path": "/campaign/mb7deluxe20offb15-summer",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489910534438",
+        "Path": "/savenow32",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Dec24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=SMB_151-180&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137191"
+    },
+    {
+        "ID": "489911157030",
+        "Path": "/savenow15",
+        "Command": "MERGE",
+        "Target": "/pages/sas-winback/?utm_campaign=Sep24&amp%3Butm_medium=directmail&amp%3Butm_source=DAP&amp%3Butm_content=PC_241-270&amp%3Buci=US-MT-D-TP-XX-M2-XXXX-137174"
+    },
+    {
+        "ID": "490650337574",
+        "Path": "/campaign/mb7deluxe20offwsc15a-summerw3",
+        "Command": "MERGE",
+        "Target": "/pages/sas-skin-spl-offer-mb7"
+    },
+    {
+        "ID": "489911877926",
+        "Path": "/haircare",
+        "Command": "MERGE",
+        "Target": "/pages/lp-core-ageproofhair"
+    },
+    {
+        "ID": "490651975974",
+        "Path": "/campaign/mb5deluxe20offb15ndcv2",
+        "Command": "MERGE",
+        "Target": "/"
     }
 ]
