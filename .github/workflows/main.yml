@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      #  Ensures that the latest versions of both branches are available for comparison.
+      # Ensures the latest versions of both branches are available for comparison.
       - name: Fetch Latest Branches
         run: |
           git fetch --all
@@ -48,23 +48,18 @@ jobs:
           rm -f changes/git-diff/changes.diff
           echo "🧹 Old diff files removed!"
 
-      - name: Commit and Push Diff Deletion
+      - name: Preprocess JSON (Remove ID Field)
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A  # ✅ Ensures deleted files are staged
-          git commit -m "Remove old changes.diff before generating new diff" || echo "✅ No need to commit"
-          git push origin $GITHUB_REF_NAME || echo "⚠️ Git push failed, check permissions."
+          mkdir -p temp_json
+          for file in $(git ls-files 'repo-shopify-data/*.json'); do
+            jq 'map(del(.ID))' "$file" > "temp_json/$(basename $file)"
+          done
 
-      - name: Fetch Latest Branch
-        run: |
-          git fetch origin $GITHUB_REF_NAME 
-
-      - name: Compare JSON Files
+      - name: Compare JSON Files Ignoring IDs
         run: |
           DIFF_FILE="./changes/git-diff/changes.diff"
-          git diff origin/${{ env.BASE_BRANCH }}..origin/$GITHUB_REF_NAME -- 'repo-shopify-data/*.json' > $DIFF_FILE
-          
+          git diff --no-index temp_json repo-shopify-data > $DIFF_FILE
+
           if [ ! -s $DIFF_FILE ]; then
             echo "✅ No JSON files changed between $GITHUB_REF_NAME and ${{ env.BASE_BRANCH }}" > $DIFF_FILE
           fi
@@ -100,18 +95,8 @@ jobs:
       - name: Cleanup Before Pull
         run: |
           rm -f changes/id-output/changed_ids.txt
-          ls -l changes/id-output/
           echo "🧹 Old extracted IDs removed!"
           git status
-
-      - name: Commit and push deletion of old changed_ids.txt
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add changes/id-output/changed_ids.txt
-          git commit -m "Remove outdated changed_ids.txt before generating new IDs" || echo "✅ No need to commit"
-          git push origin $GITHUB_REF_NAME || echo "⚠️ Git push failed, check permissions."
-          git pull --rebase origin $GITHUB_REF_NAME
 
       - name: Run Extract ID Script
         run: |
@@ -145,16 +130,6 @@ jobs:
           rm -rf changes/change-only-jsons/*.json
           echo "🧹 Old extracted JSONs removed!"
           git status
-
-      - name: Commit and push deletion of old extracted JSONs
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git rm -rf changes/change-only-jsons/*.json || echo "✅ No files to remove"
-          git add -A  # Ensure deleted files are staged
-          git commit -m "Remove outdated extracted JSONs before generating new ones" || echo "✅ No need to commit"
-          git pull --rebase origin $GITHUB_REF_NAME || echo "⚠️ Git rebase failed" 
-          git push origin $GITHUB_REF_NAME
 
       - name: Run Extract Changes Script
         run: |
@@ -192,13 +167,6 @@ jobs:
           rm -rf final-matrixify-export/*
           echo "🧹 Old Excel exports removed!"
 
-      - name: Pull Latest Changes After Cleanup
-        run: |
-          git fetch origin $GITHUB_REF_NAME
-          git reset --hard origin/$GITHUB_REF_NAME
-          git pull --rebase origin $GITHUB_REF_NAME
-          echo "✅ Latest extracted JSONs pulled!"
-
       - name: Install Python Dependencies
         run: |
           pip install pandas openpyxl xlsxwriter
@@ -212,28 +180,20 @@ jobs:
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
   
-            # ✅ Add Excel files if they exist
             if ls final-matrixify-export/*.xlsx 1> /dev/null 2>&1 || ls changes/change-only-excel/*.xlsx 1> /dev/null 2>&1; then
               git add final-matrixify-export/*.xlsx || echo "✅ No new Excel files in final-matrixify-export"
               git add changes/change-only-excel/*.xlsx || echo "✅ No new Excel files in change-only-excel"
               
               git status
-  
-              # ✅ Prevent empty commits
+
               if git diff --cached --quiet; then
                 echo "✅ No new Excel files detected. Skipping commit."
               else
                 git commit -m "Add exported Excel files"
-              # Attempt rebase
-              if ! git pull --rebase origin $GITHUB_REF_NAME; then
-                  echo "❌ Git rebase failed. Please resolve conflicts manually."
-                  exit 1  # Stop execution if rebase fails
-              fi 
-              # Push after a successful rebase
-              git push origin $GITHUB_REF_NAME || (
+                git push origin $GITHUB_REF_NAME || (
                   echo "⚠️ Push failed. Retrying after pulling latest changes..."
                   git pull --rebase origin $GITHUB_REF_NAME && git push origin $GITHUB_REF_NAME
-              )
+                )
               fi
             else
               echo "✅ No new Excel files to commit."
