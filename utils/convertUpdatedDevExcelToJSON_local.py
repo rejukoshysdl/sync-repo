@@ -69,9 +69,10 @@ for sheet in sheet_names:
 output_dir = "../output_json"
 os.makedirs(output_dir, exist_ok=True)
 
-# Save each sheet's data as a separate JSON file
+# Save each sheet's data as a separate JSON file with modified sheet name
 for sheet, json_data in json_files.items():
-    output_file = os.path.join(output_dir, f"{sheet}.json")
+    sheet_filename = sheet.replace(" ", "_")  # Replace spaces with underscores
+    output_file = os.path.join(output_dir, f"{sheet_filename}.json")
     with open(output_file, 'w') as f:
         json.dump(json_data, f, indent=4)
 
