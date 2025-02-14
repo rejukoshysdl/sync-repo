@@ -1,0 +1,1 @@
+Place your updated matrifify export file here after you make changes in your local shopify admin
