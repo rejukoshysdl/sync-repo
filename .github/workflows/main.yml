@@ -52,9 +52,13 @@ jobs:
         run: |
           mkdir -p temp_json
           for file in $(git ls-files 'repo-shopify-data/*.json'); do
-            jq 'map(del(.ID))' "$file" > "temp_json/$(basename $file)"
+            if [ -s "$file" ]; then  # Ensure the file isn't empty
+              jq 'if type=="array" then map(del(.ID)) else . end' "$file" > "temp_json/$(basename "$file")" || echo "⚠️ Skipping invalid JSON: $file"
+            else
+              echo "⚠️ Skipping empty file: $file"
+            fi
           done
-
+          echo "✅ JSON preprocessing complete."
       - name: Compare JSON Files Ignoring IDs
         run: |
           DIFF_FILE="./changes/git-diff/changes.diff"
