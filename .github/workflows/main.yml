@@ -59,6 +59,8 @@ jobs:
             fi
           done
           echo "✅ JSON preprocessing complete."
+          echo "📝 Listing temp_json contents:"
+          ls -lh temp_json  # ✅ List the processed files
       - name: Compare JSON Files Ignoring IDs
         run: |
           DIFF_FILE="./changes/git-diff/changes.diff"
