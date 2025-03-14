@@ -31,7 +31,7 @@ jobs:
           fi
           if [[ "$BRANCH_NAME" == "staging" ]]; then
             echo "BASE_BRANCH=main" >> $GITHUB_ENV
-          elif [[ "$BRANCH_NAME" == "int" ]]; then
+          elif [[ "$BRANCH_NAME" == "integration" ]]; then
             echo "BASE_BRANCH=staging" >> $GITHUB_ENV
           else
             echo "❌ Unknown push branch detected: $BRANCH_NAME"
